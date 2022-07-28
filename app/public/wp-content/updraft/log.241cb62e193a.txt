@@ -136,3 +136,466 @@
 0116.582 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.7 MB, 213 (1005) files added so far); re-opening (prior size: 9669.7 KB)
 0118.650 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1100 files added (on-disk size: 12507.6 KB)
 0119.578 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.2 MB, 165 (1170) files added so far); re-opening (prior size: 12507.6 KB)
+0120.826 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1200 files added (on-disk size: 14182 KB)
+0122.473 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1300 files added (on-disk size: 14182 KB)
+0122.594 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.3 MB, 140 (1310) files added so far); re-opening (prior size: 14182 KB)
+0122.988 (0) PHP event: code E_WARNING: ZipArchive::close(): Renaming temporary file failed: Permission denied (line 3997, C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\backup.php)
+0123.001 (0) The attempt to close the zip file returned an error (Unknown: ZipArchive does not return error messages). List of files we were trying to add follows (check their permissions).
+0123.006 (0) File: themes/oceanwp/inc/customizer/controls/multiple-select/multiple-select.css (exists: 1, is_readable: 1 size: 1377)
+0123.006 (0) File: themes/oceanwp/inc/customizer/controls/multiple-select/multiple-select.js (exists: 1, is_readable: 1 size: 662)
+0123.007 (0) File: themes/oceanwp/inc/customizer/controls/rtl.css (exists: 1, is_readable: 1 size: 2685)
+0123.007 (0) File: themes/oceanwp/inc/customizer/controls/select2.css (exists: 1, is_readable: 1 size: 17604)
+0123.007 (0) File: themes/oceanwp/inc/customizer/controls/select2.js (exists: 1, is_readable: 1 size: 166153)
+0123.007 (0) File: themes/oceanwp/inc/customizer/controls/select2.min.css (exists: 1, is_readable: 1 size: 15196)
+0123.008 (0) File: themes/oceanwp/inc/customizer/controls/select2.min.js (exists: 1, is_readable: 1 size: 76272)
+0123.008 (0) File: themes/oceanwp/inc/customizer/controls/slider/class-control-slider.php (exists: 1, is_readable: 1 size: 4547)
+0123.009 (0) File: themes/oceanwp/inc/customizer/controls/slider/slider.css (exists: 1, is_readable: 1 size: 1295)
+0123.009 (0) File: themes/oceanwp/inc/customizer/controls/slider/slider.js (exists: 1, is_readable: 1 size: 3324)
+0123.009 (0) File: themes/oceanwp/inc/customizer/controls/sortable/class-control-sortable.php (exists: 1, is_readable: 1 size: 3325)
+0123.009 (0) File: themes/oceanwp/inc/customizer/controls/sortable/sortable.css (exists: 1, is_readable: 1 size: 500)
+0123.010 (0) File: themes/oceanwp/inc/customizer/controls/sortable/sortable.js (exists: 1, is_readable: 1 size: 1251)
+0123.010 (0) File: themes/oceanwp/inc/customizer/controls/text/class-control-text.php (exists: 1, is_readable: 1 size: 3812)
+0123.010 (0) File: themes/oceanwp/inc/customizer/controls/text/text.js (exists: 1, is_readable: 1 size: 655)
+0123.010 (0) File: themes/oceanwp/inc/customizer/controls/textarea/class-control-textarea.php (exists: 1, is_readable: 1 size: 2239)
+0123.011 (0) File: themes/oceanwp/inc/customizer/controls/textarea/textarea.css (exists: 1, is_readable: 1 size: 154)
+0123.011 (0) File: themes/oceanwp/inc/customizer/controls/textarea/textarea.js (exists: 1, is_readable: 1 size: 344)
+0123.012 (0) File: themes/oceanwp/inc/customizer/controls/typo/class-control-typo.php (exists: 1, is_readable: 1 size: 9144)
+0123.013 (0) File: themes/oceanwp/inc/customizer/controls/typo/typo.css (exists: 1, is_readable: 1 size: 768)
+0123.013 (0) File: themes/oceanwp/inc/customizer/controls/typo/typo.js (exists: 1, is_readable: 1 size: 1504)
+0123.013 (0) File: themes/oceanwp/inc/customizer/controls/typography/class-control-typography.php (exists: 1, is_readable: 1 size: 3903)
+0123.015 (0) File: themes/oceanwp/inc/customizer/controls/typography/typography.css (exists: 1, is_readable: 1 size: 540)
+0123.016 (0) File: themes/oceanwp/inc/customizer/controls/typography/typography.js (exists: 1, is_readable: 1 size: 233)
+0123.016 (0) File: themes/oceanwp/inc/customizer/controls/typography/webfonts.php (exists: 1, is_readable: 1 size: 18081)
+0123.016 (0) File: themes/oceanwp/inc/customizer/controls/upsell/class-control-upsell.php (exists: 1, is_readable: 1 size: 1414)
+0123.017 (0) File: themes/oceanwp/inc/customizer/controls/upsell/upsell.css (exists: 1, is_readable: 1 size: 1366)
+0123.017 (0) File: themes/oceanwp/inc/customizer/controls/upsell/upsell.js (exists: 1, is_readable: 1 size: 293)
+0123.017 (0) File: themes/oceanwp/inc/customizer/customizer-helpers.php (exists: 1, is_readable: 1 size: 22968)
+0123.018 (0) File: themes/oceanwp/inc/customizer/customizer.php (exists: 1, is_readable: 1 size: 10033)
+0123.018 (0) File: themes/oceanwp/inc/customizer/library/customizer-custom-controls/functions.php (exists: 1, is_readable: 1 size: 15327)
+0123.018 (0) File: themes/oceanwp/inc/customizer/library/customizer-custom-controls/inc/custom-controls.php (exists: 1, is_readable: 1 size: 49259)
+0123.018 (0) File: themes/oceanwp/inc/customizer/library/customizer-custom-controls/inc/customizer.php (exists: 1, is_readable: 1 size: 196)
+0123.018 (0) File: themes/oceanwp/inc/customizer/library/customizer-custom-controls/inc/google-fonts-alphabetical.json (exists: 1, is_readable: 1 size: 787805)
+0123.019 (0) File: themes/oceanwp/inc/customizer/library/customizer-custom-controls/inc/google-fonts-popularity.json (exists: 1, is_readable: 1 size: 787805)
+0123.019 (0) File: themes/oceanwp/inc/customizer/sanitization-callbacks.php (exists: 1, is_readable: 1 size: 3824)
+0123.019 (0) File: themes/oceanwp/inc/customizer/settings/blog.php (exists: 1, is_readable: 1 size: 65105)
+0123.020 (0) File: themes/oceanwp/inc/customizer/settings/edd.php (exists: 1, is_readable: 1 size: 116000)
+0123.020 (0) File: themes/oceanwp/inc/customizer/settings/footer-bottom.php (exists: 1, is_readable: 1 size: 14573)
+0123.020 (0) File: themes/oceanwp/inc/customizer/settings/footer-widgets.php (exists: 1, is_readable: 1 size: 20677)
+0123.021 (0) File: themes/oceanwp/inc/customizer/settings/general.php (exists: 1, is_readable: 1 size: 178424)
+0123.021 (0) File: themes/oceanwp/inc/customizer/settings/header.php (exists: 1, is_readable: 1 size: 242371)
+0123.021 (0) File: themes/oceanwp/inc/customizer/settings/learndash.php (exists: 1, is_readable: 1 size: 29479)
+0123.022 (0) File: themes/oceanwp/inc/customizer/settings/lifterlms.php (exists: 1, is_readable: 1 size: 68400)
+0123.022 (0) File: themes/oceanwp/inc/customizer/settings/sidebar.php (exists: 1, is_readable: 1 size: 19832)
+0123.022 (0) File: themes/oceanwp/inc/customizer/settings/topbar.php (exists: 1, is_readable: 1 size: 27758)
+0123.023 (0) File: themes/oceanwp/inc/customizer/settings/typography.php (exists: 1, is_readable: 1 size: 32686)
+0123.023 (0) File: themes/oceanwp/inc/customizer/settings/woocommerce.php (exists: 1, is_readable: 1 size: 307192)
+0123.023 (0) File: themes/oceanwp/inc/edd/edd-config.php (exists: 1, is_readable: 1 size: 15496)
+0123.023 (0) File: themes/oceanwp/inc/edd/edd-helpers.php (exists: 1, is_readable: 1 size: 9035)
+0123.023 (0) File: themes/oceanwp/inc/header-content.php (exists: 1, is_readable: 1 size: 4371)
+0123.024 (0) File: themes/oceanwp/inc/helpers.php (exists: 1, is_readable: 1 size: 122736)
+0123.024 (0) File: themes/oceanwp/inc/oceanwp-strings.php (exists: 1, is_readable: 1 size: 8981)
+0123.024 (0) File: themes/oceanwp/inc/oceanwp-svg.php (exists: 1, is_readable: 1 size: 4867)
+0123.024 (0) File: themes/oceanwp/inc/oceanwp-theme-icons.php (exists: 1, is_readable: 1 size: 22791)
+0123.025 (0) File: themes/oceanwp/inc/plugins/class-tgm-plugin-activation.php (exists: 1, is_readable: 1 size: 122774)
+0123.025 (0) File: themes/oceanwp/inc/plugins/tgm-plugin-activation.php (exists: 1, is_readable: 1 size: 658)
+0123.025 (0) File: themes/oceanwp/inc/template-helpers.php (exists: 1, is_readable: 1 size: 20299)
+0123.025 (0) File: themes/oceanwp/inc/themepanel/assets/css/theme-panel.css (exists: 1, is_readable: 1 size: 27193)
+0123.025 (0) File: themes/oceanwp/inc/themepanel/assets/css/theme-panel.min.css (exists: 1, is_readable: 1 size: 22492)
+0123.026 (0) File: themes/oceanwp/inc/themepanel/assets/images/banners/elementor-widgets.jpg (exists: 1, is_readable: 1 size: 64570)
+0123.026 (0) File: themes/oceanwp/inc/themepanel/assets/images/banners/gunetberg-blocks.jpg (exists: 1, is_readable: 1 size: 90496)
+0123.026 (0) File: themes/oceanwp/inc/themepanel/assets/images/banners/help.jpg (exists: 1, is_readable: 1 size: 35308)
+0123.026 (0) File: themes/oceanwp/inc/themepanel/assets/images/banners/home.jpg (exists: 1, is_readable: 1 size: 20762)
+0123.027 (0) File: themes/oceanwp/inc/themepanel/assets/images/banners/install-demos.jpg (exists: 1, is_readable: 1 size: 36114)
+0123.027 (0) File: themes/oceanwp/inc/themepanel/assets/images/banners/ocean-images.jpg (exists: 1, is_readable: 1 size: 81521)
+0123.027 (0) File: themes/oceanwp/inc/themepanel/assets/images/banners/useful-plugins.jpg (exists: 1, is_readable: 1 size: 36395)
+0123.027 (0) File: themes/oceanwp/inc/themepanel/assets/images/banners/white-label.jpg (exists: 1, is_readable: 1 size: 114523)
+0123.027 (0) File: themes/oceanwp/inc/themepanel/assets/images/check.svg (exists: 1, is_readable: 1 size: 380)
+0123.028 (0) File: themes/oceanwp/inc/themepanel/assets/images/discussion.png (exists: 1, is_readable: 1 size: 12533)
+0123.028 (0) File: themes/oceanwp/inc/themepanel/assets/images/document.png (exists: 1, is_readable: 1 size: 6077)
+0123.028 (0) File: themes/oceanwp/inc/themepanel/assets/images/help-center.png (exists: 1, is_readable: 1 size: 5518)
+0123.029 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/cancel.png (exists: 1, is_readable: 1 size: 3240)
+0123.029 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/chat.png (exists: 1, is_readable: 1 size: 7269)
+0123.030 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/check-mark.svg (exists: 1, is_readable: 1 size: 436)
+0123.030 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/customizer-controls.png (exists: 1, is_readable: 1 size: 2940)
+0123.031 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/customizer-import-export.png (exists: 1, is_readable: 1 size: 6685)
+0123.031 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/customizer-reset.png (exists: 1, is_readable: 1 size: 2270)
+0123.031 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/customizer-search.png (exists: 1, is_readable: 1 size: 3158)
+0123.031 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/diamond.png (exists: 1, is_readable: 1 size: 2524)
+0123.032 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/discussion.png (exists: 1, is_readable: 1 size: 12533)
+0123.032 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/document.png (exists: 1, is_readable: 1 size: 6077)
+0123.032 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/download.png (exists: 1, is_readable: 1 size: 3327)
+0123.032 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/elementor-widgets.png (exists: 1, is_readable: 1 size: 4874)
+0123.032 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/export.png (exists: 1, is_readable: 1 size: 7449)
+0123.033 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/extra-settings.png (exists: 1, is_readable: 1 size: 7065)
+0123.033 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/feature-requests.png (exists: 1, is_readable: 1 size: 5739)
+0123.033 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/free-pro.png (exists: 1, is_readable: 1 size: 5528)
+0123.033 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/get-some-love.png (exists: 1, is_readable: 1 size: 4368)
+0123.034 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/google-maps.png (exists: 1, is_readable: 1 size: 4099)
+0123.034 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/google-recaptcha.png (exists: 1, is_readable: 1 size: 22385)
+0123.034 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/gunetberg-blocks.png (exists: 1, is_readable: 1 size: 4652)
+0123.034 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/help-center.png (exists: 1, is_readable: 1 size: 5518)
+0123.034 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/import.png (exists: 1, is_readable: 1 size: 4152)
+0123.035 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/install-demos.png (exists: 1, is_readable: 1 size: 4478)
+0123.035 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/life-saver.png (exists: 1, is_readable: 1 size: 2576)
+0123.035 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/limited.png (exists: 1, is_readable: 1 size: 2858)
+0123.035 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/love-corner.png (exists: 1, is_readable: 1 size: 3476)
+0123.036 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/mailchimp.png (exists: 1, is_readable: 1 size: 3145)
+0123.036 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/media-player.png (exists: 1, is_readable: 1 size: 3151)
+0123.036 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/metabox-settings.png (exists: 1, is_readable: 1 size: 5215)
+0123.036 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/minimize.png (exists: 1, is_readable: 1 size: 2858)
+0123.037 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/monitor.png (exists: 1, is_readable: 1 size: 2975)
+0123.037 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/my-library.png (exists: 1, is_readable: 1 size: 12909)
+0123.037 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/ocean-images.png (exists: 1, is_readable: 1 size: 3729)
+0123.037 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/plugin-download.png (exists: 1, is_readable: 1 size: 3978)
+0123.037 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/plugins.png (exists: 1, is_readable: 1 size: 5159)
+0123.038 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/question-mark.svg (exists: 1, is_readable: 1 size: 776)
+0123.038 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/quick-settings/favicon.png (exists: 1, is_readable: 1 size: 5488)
+0123.038 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/quick-settings/footer-bottom.png (exists: 1, is_readable: 1 size: 4685)
+0123.039 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/quick-settings/footer-widgets.png (exists: 1, is_readable: 1 size: 6155)
+0123.039 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/quick-settings/header.png (exists: 1, is_readable: 1 size: 4097)
+0123.039 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/quick-settings/logo.png (exists: 1, is_readable: 1 size: 5283)
+0123.040 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/quick-settings/primary-colors.png (exists: 1, is_readable: 1 size: 7261)
+0123.040 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/quick-settings/top-bar.png (exists: 1, is_readable: 1 size: 4781)
+0123.040 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/quick-settings/typography.png (exists: 1, is_readable: 1 size: 3788)
+0123.041 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/quick-settings.png (exists: 1, is_readable: 1 size: 4370)
+0123.041 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/share-the-love.png (exists: 1, is_readable: 1 size: 6619)
+0123.041 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/showcase-website.png (exists: 1, is_readable: 1 size: 5174)
+0123.042 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/star.png (exists: 1, is_readable: 1 size: 2557)
+0123.042 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/svg-support.png (exists: 1, is_readable: 1 size: 9464)
+0123.042 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/system-info.png (exists: 1, is_readable: 1 size: 5581)
+0123.043 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/team-work.png (exists: 1, is_readable: 1 size: 7100)
+0123.043 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/theme-status.png (exists: 1, is_readable: 1 size: 2572)
+0123.043 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/tick.png (exists: 1, is_readable: 1 size: 3337)
+0123.043 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/warning-badge.svg (exists: 1, is_readable: 1 size: 164)
+0123.044 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/white-label.png (exists: 1, is_readable: 1 size: 13699)
+0123.044 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/wordpress-widgets.png (exists: 1, is_readable: 1 size: 5356)
+0123.044 (0) File: themes/oceanwp/inc/themepanel/assets/images/icons/x-mark.svg (exists: 1, is_readable: 1 size: 560)
+0123.044 (0) File: themes/oceanwp/inc/themepanel/assets/images/logo.png (exists: 1, is_readable: 1 size: 1183)
+0123.045 (0) File: themes/oceanwp/inc/themepanel/assets/images/media-player.png (exists: 1, is_readable: 1 size: 3151)
+0123.045 (0) File: themes/oceanwp/inc/themepanel/assets/images/monitor.png (exists: 1, is_readable: 1 size: 2975)
+0123.046 (0) File: themes/oceanwp/inc/themepanel/assets/images/pro-banner.jpg (exists: 1, is_readable: 1 size: 66118)
+0123.047 (0) File: themes/oceanwp/inc/themepanel/assets/images/team-work.png (exists: 1, is_readable: 1 size: 7100)
+0123.047 (0) File: themes/oceanwp/inc/themepanel/assets/images/themepanel-icon.svg (exists: 1, is_readable: 1 size: 1208)
+0123.047 (0) File: themes/oceanwp/inc/themepanel/assets/js/admin.js (exists: 1, is_readable: 1 size: 738)
+0123.048 (0) File: themes/oceanwp/inc/themepanel/assets/js/marked.min.js (exists: 1, is_readable: 1 size: 47644)
+0123.048 (0) File: themes/oceanwp/inc/themepanel/assets/js/theme-panel.js (exists: 1, is_readable: 1 size: 9397)
+0123.048 (0) File: themes/oceanwp/inc/themepanel/assets/js/theme-panel.min.js (exists: 1, is_readable: 1 size: 5498)
+0123.048 (0) File: themes/oceanwp/inc/themepanel/includes/classes/class-helpers.php (exists: 1, is_readable: 1 size: 13438)
+0125.591 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 39 (1349) files added so far); re-opening (prior size: 14182 KB)
+0126.859 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1400 files added (on-disk size: 14253.9 KB)
+0128.594 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.3 MB, 94 (1443) files added so far); re-opening (prior size: 14253.9 KB)
+0130.271 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1500 files added (on-disk size: 15009.5 KB)
+0131.583 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 139 (1582) files added so far); re-opening (prior size: 15009.5 KB)
+0132.037 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1600 files added (on-disk size: 15250.3 KB)
+0133.750 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1700 files added (on-disk size: 15250.3 KB)
+0134.589 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.3 MB, 211 (1793) files added so far); re-opening (prior size: 15250.3 KB)
+0135.088 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1800 files added (on-disk size: 18362.5 KB)
+0136.279 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1900 files added (on-disk size: 18362.5 KB)
+0137.672 (0) Creating zip file manifest (backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.list-temp.tmp)
+0137.691 (0) Successfully created zip file manifest (size: 136014)
+0137.695 (0) Error: makezip_addfiles returned false
+0137.698 (0) makezip_addfiles(UpdraftPlus_ZipArchive) apparently failed (file=backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp, type=themes, size=25220811) - retrying with PclZip
+0137.865 (0) Creating zip file manifest (backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.list-temp.tmp)
+0137.885 (0) Successfully created zip file manifest (size: 136014)
+0137.891 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: Zip file already exists, with 1831 files
+0138.717 (0) Total entities for the zip file: 533 directories, 1971 files (0 skipped as non-modified), 59.3 MB
+0138.725 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 60731 KB, split: 409600 KB)
+0138.739 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 100 files added (on-disk size: 24629.7 KB)
+0138.749 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 200 files added (on-disk size: 24629.7 KB)
+0138.760 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 300 files added (on-disk size: 24629.7 KB)
+0138.770 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 400 files added (on-disk size: 24629.7 KB)
+0138.779 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 500 files added (on-disk size: 24629.7 KB)
+0138.789 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 600 files added (on-disk size: 24629.7 KB)
+0138.799 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 700 files added (on-disk size: 24629.7 KB)
+0138.809 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 800 files added (on-disk size: 24629.7 KB)
+0138.819 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 900 files added (on-disk size: 24629.7 KB)
+0138.828 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1000 files added (on-disk size: 24629.7 KB)
+0138.841 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1100 files added (on-disk size: 24629.7 KB)
+0138.859 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1200 files added (on-disk size: 24629.7 KB)
+0138.899 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1300 files added (on-disk size: 24629.7 KB)
+0138.917 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1400 files added (on-disk size: 24629.7 KB)
+0138.929 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1500 files added (on-disk size: 24629.7 KB)
+0138.942 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1600 files added (on-disk size: 24629.7 KB)
+0138.955 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1700 files added (on-disk size: 24629.7 KB)
+0138.968 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1800 files added (on-disk size: 24629.7 KB)
+0138.980 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.tmp: 1900 files added (on-disk size: 24629.7 KB)
+0228.724 (0) Created themes zip (0) - 1353 KB in 130.6 s (10.4 KB/s) (sha1: 27b843472172b046a5b239fe687213cc403a9f55, sha256: 5c36a5110c4ecd6c5dd5966891d50b70c87866a58c94269aa34d0cc0ee547fd7)
+0228.735 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0228.738 (0) Looking for candidates to backup in: C:\Users\Usuario\Local Sites\holamundo\app\public/wp-content/uploads
+0228.741 (0) finding files: .htaccess: adding to list (1)
+0228.744 (0) finding files: 2022: adding to list (2)
+0228.748 (0) finding files: complianz: adding to list (3)
+0228.751 (0) finding files: elementor: adding to list (4)
+0228.753 (0) finding files: ithemes-security: adding to list (5)
+0228.756 (0) finding files: site-reviews: adding to list (6)
+0228.759 (0) finding files: ultimatemember: adding to list (7)
+0228.764 (0) finding files: visual-portfolio: adding to list (8)
+0228.767 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0228.883 (0) Total entities for the zip file: 18 directories, 224 files (0 skipped as non-modified), 22.3 MB
+0229.098 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0229.399 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0229.946 (0) Creating zip file manifest (backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-uploads.zip.list-temp.tmp)
+0229.954 (0) Successfully created zip file manifest (size: 14625)
+0230.305 (0) Created uploads zip (0) - 21093.9 KB in 1.5 s (13774.8 KB/s) (sha1: 16087a4a1b1a50251e774ea4e5ab8cb9c15fbe88, sha256: 9057e5415fc2445076438b3eddd844ddbf94bc87e35fc889d2e0194a531a9aa2)
+0230.314 (0) Beginning backup of other directories found in the content directory (index: 0)
+0230.317 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0230.321 (0) Looking for candidates to backup in: C:\Users\Usuario\Local Sites\holamundo\app\public/wp-content
+0230.324 (0) finding files: .htaccess: adding to list (1)
+0230.327 (0) finding files: advanced-cache.php: adding to list (2)
+0230.329 (0) finding files: cache: skipping: excluded by options
+0230.332 (0) finding files: index.php: adding to list (3)
+0230.335 (0) finding files: languages: adding to list (4)
+0230.338 (0) finding files: plugins: skipping: this is the plugins directory
+0230.341 (0) finding files: themes: skipping: this is the themes directory
+0230.344 (0) finding files: updraft: skipping: this is the updraft directory
+0230.347 (0) finding files: upgrade: skipping: excluded by options
+0230.350 (0) finding files: uploads: skipping: this is the uploads directory
+0230.353 (0) finding files: uploads-webpc: adding to list (5)
+0230.356 (0) finding files: wp-cache-config.php: adding to list (6)
+0230.423 (0) Total entities for the zip file: 7 directories, 142 files (0 skipped as non-modified), 4.5 MB
+0230.772 (0) Zip: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0231.399 (0) Creating zip file manifest (backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-others.zip.list-temp.tmp)
+0231.406 (0) Successfully created zip file manifest (size: 9487)
+0231.437 (0) Created others zip (0) - 1293.9 KB in 1.1 s (1203.2 KB/s) (sha1: 273558a9cbe5b7496fe86a9a6c5d359ea440ae92, sha256: 042b5877ae8883aa7c6887496395a5c837010c553dc77455632d8e8e54905663)
+0231.459 (0) Saving backup status to database (elements: 8)
+0231.469 (0) Beginning creation of database dump (WordPress DB)
+0231.474 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0231.548 (0) Table wp_options: Total expected rows (via COUNT): 396
+0231.559 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0231.708 (0) Table wp_options: Rows added in this batch (next record: 2466): 392 (uncompressed bytes in this segment=1988150) in 0.21 seconds
+0231.729 (0) Table wp_options: finishing file(s) (2, 337.8 KB)
+0231.745 (0) Table wp_users: Total expected rows (via COUNT): 1
+0231.748 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0231.755 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1428) in 0.01 seconds
+0231.769 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0231.786 (0) Table wp_usermeta: Total expected rows (via COUNT): 47
+0231.790 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0231.798 (0) Table wp_usermeta: Rows added in this batch (next record: 47): 47 (uncompressed bytes in this segment=9031) in 0.02 seconds
+0231.817 (0) Table wp_usermeta: finishing file(s) (2, 3.3 KB)
+0231.831 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0231.838 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.01 seconds
+0231.856 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0231.869 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0231.872 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0231.879 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2152) in 0.01 seconds
+0231.894 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0231.907 (0) Table wp_itsec_bans: Total expected rows (via COUNT): 0
+0231.913 (0) Table wp_itsec_bans: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=876) in 0.01 seconds
+0231.929 (0) Table wp_itsec_bans: finishing file(s) (2, 0.4 KB)
+0231.941 (0) Table wp_itsec_dashboard_events: Total expected rows (via COUNT): 0
+0231.946 (0) Table wp_itsec_dashboard_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=816) in 0.01 seconds
+0231.966 (0) Table wp_itsec_dashboard_events: finishing file(s) (2, 0.4 KB)
+0231.985 (0) Table wp_itsec_distributed_storage: Total expected rows (via COUNT): 0
+0231.989 (0) Table wp_itsec_distributed_storage: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=915) in 0.01 seconds
+0232.008 (0) Table wp_itsec_distributed_storage: finishing file(s) (2, 0.4 KB)
+0232.027 (0) Table wp_itsec_fingerprints: Total expected rows (via COUNT): 0
+0232.031 (0) Table wp_itsec_fingerprints: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1223) in 0.01 seconds
+0232.049 (0) Table wp_itsec_fingerprints: finishing file(s) (2, 0.5 KB)
+0232.065 (0) Table wp_itsec_geolocation_cache: Total expected rows (via COUNT): 0
+0232.069 (0) Table wp_itsec_geolocation_cache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=937) in 0.01 seconds
+0232.085 (0) Table wp_itsec_geolocation_cache: finishing file(s) (2, 0.4 KB)
+0232.097 (0) Table wp_itsec_lockouts: Total expected rows (via COUNT): 0
+0232.102 (0) Table wp_itsec_lockouts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1209) in 0.01 seconds
+0232.117 (0) Table wp_itsec_lockouts: finishing file(s) (2, 0.5 KB)
+0232.133 (0) Table wp_itsec_logs: Total expected rows (via COUNT): 2
+0232.136 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0232.144 (0) Table wp_itsec_logs: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2034) in 0.02 seconds
+0232.162 (0) Table wp_itsec_logs: finishing file(s) (2, 0.7 KB)
+0232.176 (0) Table wp_itsec_mutexes: Total expected rows (via COUNT): 0
+0232.184 (0) Table wp_itsec_mutexes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=617) in 0.01 seconds
+0232.200 (0) Table wp_itsec_mutexes: finishing file(s) (2, 0.4 KB)
+0232.211 (0) Table wp_itsec_opaque_tokens: Total expected rows (approximate): 0
+0232.216 (0) Table wp_itsec_opaque_tokens: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=767) in 0.01 seconds
+0232.231 (0) Table wp_itsec_opaque_tokens: finishing file(s) (2, 0.4 KB)
+0232.243 (0) Table wp_itsec_temp: Total expected rows (via COUNT): 0
+0232.247 (0) Table wp_itsec_temp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=903) in 0.01 seconds
+0232.263 (0) Table wp_itsec_temp: finishing file(s) (2, 0.4 KB)
+0232.273 (0) Table wp_itsec_user_groups: Total expected rows (approximate): 0
+0232.277 (0) Table wp_itsec_user_groups: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=838) in 0.01 seconds
+0232.293 (0) Table wp_itsec_user_groups: finishing file(s) (2, 0.4 KB)
+0232.310 (0) Table wp_links: Total expected rows (via COUNT): 0
+0232.314 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.01 seconds
+0232.330 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0232.348 (0) Table wp_postmeta: Total expected rows (approximate): 1666
+0232.435 (0) Table wp_postmeta: Rows added in this batch (next record: 2321): 1808 (uncompressed bytes in this segment=284643) in 0.10 seconds
+0232.454 (0) Table wp_postmeta: finishing file(s) (2, 27.8 KB)
+0232.473 (0) Table wp_posts: Total expected rows (via COUNT): 277
+0232.477 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0232.572 (0) Table wp_posts: Rows added in this batch (next record: 366): 277 (uncompressed bytes in this segment=276992) in 0.11 seconds
+0232.594 (0) Table wp_posts: finishing file(s) (2, 35.2 KB)
+0232.606 (0) Table wp_term_relationships: Total expected rows (approximate): 23
+0232.615 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 24 (uncompressed bytes in this segment=1037) in 0.01 seconds
+0232.635 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0232.652 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 25
+0232.655 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0232.664 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 30): 25 (uncompressed bytes in this segment=1883) in 0.02 seconds
+0232.685 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0232.704 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0232.711 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.01 seconds
+0232.731 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0232.744 (0) Table wp_terms: Total expected rows (via COUNT): 25
+0232.748 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0232.758 (0) Table wp_terms: Rows added in this batch (next record: 30): 25 (uncompressed bytes in this segment=1553) in 0.02 seconds
+0232.778 (0) Table wp_terms: finishing file(s) (2, 0.8 KB)
+0232.801 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 1
+0232.803 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0232.811 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 191): 1 (uncompressed bytes in this segment=1915) in 0.02 seconds
+0232.831 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 0.7 KB)
+0232.846 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0232.854 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.01 seconds
+0232.870 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0232.885 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 1
+0232.887 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0232.898 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=689) in 0.02 seconds
+0232.914 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0232.930 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 3
+0232.933 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0232.938 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1084) in 0.01 seconds
+0232.956 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.5 KB)
+0232.974 (0) Table wp_cmplz_cookiebanners: Total expected rows (via COUNT): 1
+0232.976 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0232.981 (0) Table wp_cmplz_cookiebanners: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=7726) in 0.01 seconds
+0232.998 (0) Table wp_cmplz_cookiebanners: finishing file(s) (2, 1.9 KB)
+0233.012 (0) Table wp_cmplz_cookies: Total expected rows (via COUNT): 9
+0233.311 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0233.317 (0) Table wp_cmplz_cookies: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=2476) in 0.31 seconds
+0233.333 (0) Table wp_cmplz_cookies: finishing file(s) (2, 0.7 KB)
+0233.351 (0) Table wp_cmplz_services: Total expected rows (via COUNT): 0
+0233.359 (0) Table wp_cmplz_services: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1037) in 0.02 seconds
+0233.374 (0) Table wp_cmplz_services: finishing file(s) (2, 0.4 KB)
+0233.387 (0) Table wp_e_events: Total expected rows (via COUNT): 9
+0233.390 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0233.398 (0) Table wp_e_events: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=2788) in 0.02 seconds
+0233.413 (0) Table wp_e_events: finishing file(s) (2, 0.8 KB)
+0233.425 (0) Table wp_glsr_assigned_posts: Total expected rows (approximate): 0
+0233.434 (0) Table wp_glsr_assigned_posts: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=672) in 0.01 seconds
+0233.450 (0) Table wp_glsr_assigned_posts: finishing file(s) (2, 0.4 KB)
+0233.463 (0) Table wp_glsr_assigned_terms: Total expected rows (approximate): 0
+0233.467 (0) Table wp_glsr_assigned_terms: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=622) in 0.01 seconds
+0233.482 (0) Table wp_glsr_assigned_terms: finishing file(s) (2, 0.3 KB)
+0233.494 (0) Table wp_glsr_assigned_users: Total expected rows (approximate): 0
+0233.498 (0) Table wp_glsr_assigned_users: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=622) in 0.01 seconds
+0233.514 (0) Table wp_glsr_assigned_users: finishing file(s) (2, 0.3 KB)
+0233.528 (0) Table wp_glsr_ratings: Total expected rows (via COUNT): 2
+0233.531 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0233.538 (0) Table wp_glsr_ratings: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1494) in 0.02 seconds
+0233.553 (0) Table wp_glsr_ratings: finishing file(s) (2, 0.6 KB)
+0233.570 (0) Table wp_um_metadata: Total expected rows (via COUNT): 0
+0233.577 (0) Table wp_um_metadata: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=720) in 0.01 seconds
+0233.604 (0) Table wp_um_metadata: finishing file(s) (2, 0.4 KB)
+0233.624 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 6
+0233.626 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0233.638 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=8813) in 0.02 seconds
+0233.657 (0) Table wp_yoast_indexable: finishing file(s) (2, 2 KB)
+0233.669 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 6
+0233.677 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 6 (uncompressed bytes in this segment=890) in 0.01 seconds
+0233.694 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.4 KB)
+0233.712 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 23
+0233.716 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0233.725 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=1240) in 0.02 seconds
+0233.743 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0233.759 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 0
+0233.768 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=858) in 0.01 seconds
+0233.783 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0233.797 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 4
+0233.802 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0233.810 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 5): 4 (uncompressed bytes in this segment=1601) in 0.02 seconds
+0233.826 (0) Table wp_yoast_seo_links: finishing file(s) (2, 0.6 KB)
+0233.833 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_options.table.tmpr2467.gz (1/41/fopen): adding to final database dump
+0233.860 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_options.table.gz (2/41/fopen): adding to final database dump
+0233.863 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_users.table.tmpr2.gz (3/41/fopen): adding to final database dump
+0233.867 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_users.table.gz (4/41/fopen): adding to final database dump
+0233.871 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_usermeta.table.tmpr48.gz (5/41/fopen): adding to final database dump
+0233.875 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_usermeta.table.gz (6/41/fopen): adding to final database dump
+0233.878 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_commentmeta.table.tmpr0.gz (7/41/fopen): adding to final database dump
+0233.881 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_commentmeta.table.gz (8/41/fopen): adding to final database dump
+0233.885 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_comments.table.tmpr2.gz (9/41/fopen): adding to final database dump
+0233.889 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_comments.table.gz (10/41/fopen): adding to final database dump
+0233.893 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_bans.table.tmpr0.gz (11/41/fopen): adding to final database dump
+0233.896 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_bans.table.gz (12/41/fopen): adding to final database dump
+0233.900 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_dashboard_events.table.tmpr0.gz (13/41/fopen): adding to final database dump
+0233.904 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_dashboard_events.table.gz (14/41/fopen): adding to final database dump
+0233.908 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_distributed_storage.table.tmpr0.gz (15/41/fopen): adding to final database dump
+0233.911 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_distributed_storage.table.gz (16/41/fopen): adding to final database dump
+0233.914 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_fingerprints.table.tmpr0.gz (17/41/fopen): adding to final database dump
+0233.918 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_fingerprints.table.gz (18/41/fopen): adding to final database dump
+0233.921 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_geolocation_cache.table.tmpr0.gz (19/41/fopen): adding to final database dump
+0233.924 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_geolocation_cache.table.gz (20/41/fopen): adding to final database dump
+0233.928 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_lockouts.table.tmpr0.gz (21/41/fopen): adding to final database dump
+0233.931 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_lockouts.table.gz (22/41/fopen): adding to final database dump
+0233.935 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_logs.table.tmpr3.gz (23/41/fopen): adding to final database dump
+0233.939 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_logs.table.gz (24/41/fopen): adding to final database dump
+0233.942 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_mutexes.table.tmpr0.gz (25/41/fopen): adding to final database dump
+0233.947 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_mutexes.table.gz (26/41/fopen): adding to final database dump
+0233.952 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_opaque_tokens.table.tmpr1.gz (27/41/fopen): adding to final database dump
+0233.957 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_opaque_tokens.table.gz (28/41/fopen): adding to final database dump
+0233.961 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_temp.table.tmpr0.gz (29/41/fopen): adding to final database dump
+0233.965 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_temp.table.gz (30/41/fopen): adding to final database dump
+0233.969 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_user_groups.table.tmpr1.gz (31/41/fopen): adding to final database dump
+0233.972 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_itsec_user_groups.table.gz (32/41/fopen): adding to final database dump
+0233.975 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_links.table.tmpr0.gz (33/41/fopen): adding to final database dump
+0233.979 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_links.table.gz (34/41/fopen): adding to final database dump
+0233.982 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_postmeta.table.tmpr2322.gz (35/41/fopen): adding to final database dump
+0233.988 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_postmeta.table.gz (36/41/fopen): adding to final database dump
+0233.991 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_posts.table.tmpr367.gz (37/41/fopen): adding to final database dump
+0233.997 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_posts.table.gz (38/41/fopen): adding to final database dump
+0234.001 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_term_relationships.table.tmpr100001.gz (39/41/fopen): adding to final database dump
+0234.004 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_term_relationships.table.gz (40/41/fopen): adding to final database dump
+0234.008 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_term_taxonomy.table.tmpr31.gz (41/41/fopen): adding to final database dump
+0234.011 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_term_taxonomy.table.gz (42/41/fopen): adding to final database dump
+0234.014 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_termmeta.table.tmpr0.gz (43/41/fopen): adding to final database dump
+0234.020 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_termmeta.table.gz (44/41/fopen): adding to final database dump
+0234.024 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_terms.table.tmpr31.gz (45/41/fopen): adding to final database dump
+0234.027 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_terms.table.gz (46/41/fopen): adding to final database dump
+0234.030 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_actionscheduler_actions.table.tmpr192.gz (47/41/fopen): adding to final database dump
+0234.033 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_actionscheduler_actions.table.gz (48/41/fopen): adding to final database dump
+0234.038 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_actionscheduler_claims.table.tmpr0.gz (49/41/fopen): adding to final database dump
+0234.041 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_actionscheduler_claims.table.gz (50/41/fopen): adding to final database dump
+0234.044 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_actionscheduler_groups.table.tmpr2.gz (51/41/fopen): adding to final database dump
+0234.047 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_actionscheduler_groups.table.gz (52/41/fopen): adding to final database dump
+0234.053 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_actionscheduler_logs.table.tmpr4.gz (53/41/fopen): adding to final database dump
+0234.056 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_actionscheduler_logs.table.gz (54/41/fopen): adding to final database dump
+0234.059 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_cmplz_cookiebanners.table.tmpr2.gz (55/41/fopen): adding to final database dump
+0234.062 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_cmplz_cookiebanners.table.gz (56/41/fopen): adding to final database dump
+0234.065 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_cmplz_cookies.table.tmpr10.gz (57/41/fopen): adding to final database dump
+0234.070 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_cmplz_cookies.table.gz (58/41/fopen): adding to final database dump
+0234.073 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_cmplz_services.table.tmpr0.gz (59/41/fopen): adding to final database dump
+0234.077 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_cmplz_services.table.gz (60/41/fopen): adding to final database dump
+0234.080 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_e_events.table.tmpr10.gz (61/41/fopen): adding to final database dump
+0234.084 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_e_events.table.gz (62/41/fopen): adding to final database dump
+0234.087 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_glsr_assigned_posts.table.tmpr1.gz (63/41/fopen): adding to final database dump
+0234.091 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_glsr_assigned_posts.table.gz (64/41/fopen): adding to final database dump
+0234.094 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_glsr_assigned_terms.table.tmpr1.gz (65/41/fopen): adding to final database dump
+0234.097 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_glsr_assigned_terms.table.gz (66/41/fopen): adding to final database dump
+0234.100 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_glsr_assigned_users.table.tmpr1.gz (67/41/fopen): adding to final database dump
+0234.104 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_glsr_assigned_users.table.gz (68/41/fopen): adding to final database dump
+0234.108 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_glsr_ratings.table.tmpr3.gz (69/41/fopen): adding to final database dump
+0234.112 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_glsr_ratings.table.gz (70/41/fopen): adding to final database dump
+0234.116 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_um_metadata.table.tmpr0.gz (71/41/fopen): adding to final database dump
+0234.121 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_um_metadata.table.gz (72/41/fopen): adding to final database dump
+0234.125 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_yoast_indexable.table.tmpr7.gz (73/41/fopen): adding to final database dump
+0234.128 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_yoast_indexable.table.gz (74/41/fopen): adding to final database dump
+0234.131 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (75/41/fopen): adding to final database dump
+0234.136 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_yoast_indexable_hierarchy.table.gz (76/41/fopen): adding to final database dump
+0234.139 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_yoast_migrations.table.tmpr24.gz (77/41/fopen): adding to final database dump
+0234.143 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_yoast_migrations.table.gz (78/41/fopen): adding to final database dump
+0234.146 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_yoast_primary_term.table.tmpr0.gz (79/41/fopen): adding to final database dump
+0234.149 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_yoast_primary_term.table.gz (80/41/fopen): adding to final database dump
+0234.153 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_yoast_seo_links.table.tmpr6.gz (81/41/fopen): adding to final database dump
+0234.156 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db-table-wp_yoast_seo_links.table.gz (82/41/fopen): adding to final database dump
+0234.180 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db.gz: finished writing out complete database file (425.1 KB)
+0234.224 (0) Total database tables backed up: 41 (backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db.gz, size: 435420, sha1: 2b27d0db9022c705d964191e7c5c02eb9340003f, sha256: db7af4cf7d98848ee2a0bc173a16bed01bfefc514b5581ddbf3938359a25bfed)
+0234.244 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0234.246 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0234.252 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0234.256 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-others.zip: others: This file has not yet been successfully uploaded: will queue
+0234.259 (0) backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db.gz: db: This file has not yet been successfully uploaded: will queue
+0234.262 (0) Saving backup history. Total backup size: 54.7 MB
+0234.270 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0234.279 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0234.283 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d80824397ac3fda3a4f9eb46dbabc45e)
+0236.863 (0) Google Drive: quota usage: used=194.1 MB, total=15360 MB, available=15165.9 MB
+0236.870 (0) Google Drive: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-plugins.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0237.599 (0) Googledrive chunked upload: 3.2 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 20.2 / 10)
+0237.956 (0) Googledrive chunked upload: 9.7 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 20.2 / 10)
+0238.522 (0) Googledrive chunked upload: 22.5 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 20.2 / 10)
