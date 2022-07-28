@@ -599,3 +599,86 @@
 0237.599 (0) Googledrive chunked upload: 3.2 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 20.2 / 10)
 0237.956 (0) Googledrive chunked upload: 9.7 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 20.2 / 10)
 0238.522 (0) Googledrive chunked upload: 22.5 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 20.2 / 10)
+0239.742 (0) Googledrive chunked upload: 48.3 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 20.2 / 10)
+0241.460 (0) Googledrive chunked upload: 99.7 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 20.2 / 10)
+0242.837 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0242.850 (0) Google Drive: OK: Archive backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-plugins.zip uploaded in 5.97 seconds
+0242.853 (0) Recording as successfully uploaded: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-plugins.zip
+0242.866 (0) Deleting local file: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-plugins.zip: OK
+0242.870 (0) Deleting zip manifest (backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-plugins.zip.list.tmp)
+0243.194 (0) Google Drive: quota usage: used=225.1 MB, total=15360 MB, available=15134.9 MB
+0243.197 (0) Google Drive: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0243.906 (0) Googledrive chunked upload: 75.7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 20.2 / 10)
+0245.006 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0245.017 (0) Google Drive: OK: Archive backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip uploaded in 1.82 seconds
+0245.020 (0) Recording as successfully uploaded: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip
+0245.027 (0) Deleting local file: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip: OK
+0245.030 (0) Deleting zip manifest (backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-themes.zip.list.tmp)
+0245.325 (0) Google Drive: quota usage: used=225.1 MB, total=15360 MB, available=15134.9 MB
+0245.329 (0) Google Drive: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-uploads.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0246.066 (0) Googledrive chunked upload: 4.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 20.2 / 10)
+0246.467 (0) Googledrive chunked upload: 14.6 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 20.2 / 10)
+0247.161 (0) Googledrive chunked upload: 34 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 20.2 / 10)
+0248.219 (0) Googledrive chunked upload: 72.8 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 20.2 / 10)
+0249.727 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0249.739 (0) Google Drive: OK: Archive backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-uploads.zip uploaded in 4.41 seconds
+0249.743 (0) Recording as successfully uploaded: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-uploads.zip
+0249.753 (0) Deleting local file: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-uploads.zip: OK
+0249.756 (0) Deleting zip manifest (backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-uploads.zip.list.tmp)
+0250.088 (0) Google Drive: quota usage: used=226.5 MB, total=15360 MB, available=15133.5 MB
+0250.101 (0) Google Drive: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-others.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0250.769 (0) Googledrive chunked upload: 79.1 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 20.2 / 10)
+0251.732 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0251.743 (0) Google Drive: OK: Archive backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-others.zip uploaded in 1.64 seconds
+0251.747 (0) Recording as successfully uploaded: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-others.zip
+0251.754 (0) Deleting local file: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-others.zip: OK
+0251.758 (0) Deleting zip manifest (backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-others.zip.list.tmp)
+0252.113 (0) Google Drive: quota usage: used=226.5 MB, total=15360 MB, available=15133.5 MB
+0252.117 (0) Google Drive: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db.gz: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0253.513 (0) Googledrive chunked upload: 100 % uploaded
+0253.529 (0) Google Drive: OK: Archive backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db.gz uploaded in 1.41 seconds
+0253.534 (0) Recording as successfully uploaded: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db.gz
+0253.544 (0) Deleting local file: backup_2022-07-28-1250_Curriculum_Vitae_241cb62e193a-db.gz: OK
+0253.560 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0253.565 (0) Number of backup sets in history: 3; groups (db): 1
+0253.570 (0) Examining (for databases) backup set with group_id=0, nonce=241cb62e193a, datestamp=1659005420 (Jul 28 2022 10:50:20)
+0253.575 (0) This backup set is the backup set just made, so will not be deleted.
+0253.575 (0) Examining (for databases) backup set with group_id=0, nonce=b7eac74cbbf8, datestamp=1658920101 (Jul 27 2022 11:08:21)
+0253.575 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0253.580 (0) Examining (for databases) backup set with group_id=0, nonce=9b8af9a62af0, datestamp=1658830407 (Jul 26 2022 10:13:27)
+0253.580 (0) 1658830407: db: this set includes a database (backup_2022-07-26-1213_Curriculum_Vitae_9b8af9a62af0-db.gz); db count is now 2
+0253.580 (0) 1658830407: db: over retain limit (2); will delete this database
+0253.580 (0) Delete file: backup_2022-07-26-1213_Curriculum_Vitae_9b8af9a62af0-db.gz, service=googledrive
+0255.194 (0) Google Drive: backup_2022-07-26-1213_Curriculum_Vitae_9b8af9a62af0-db.gz: Deletion successful
+0255.202 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0255.206 (0) Number of backup sets in history: 3; groups (files): 1
+0255.209 (0) Examining (for files) backup set with nonce=241cb62e193a, datestamp=1659005420 (Jul 28 2022 10:50:20)
+0255.209 (0) This backup set is the backup set just made, so will not be deleted.
+0255.212 (0) This backup set is the backup set just made, so will not be deleted.
+0255.213 (0) This backup set is the backup set just made, so will not be deleted.
+0255.214 (0) This backup set is the backup set just made, so will not be deleted.
+0255.215 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0255.218 (0) Examining (for files) backup set with nonce=b7eac74cbbf8, datestamp=1658920101 (Jul 27 2022 11:08:21)
+0255.218 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0255.219 (0) Examining (for files) backup set with nonce=9b8af9a62af0, datestamp=1658830407 (Jul 26 2022 10:13:27)
+0255.219 (0) plugins: over retain limit (2); will delete this file entity
+0255.219 (0) themes: over retain limit (2); will delete this file entity
+0255.219 (0) uploads: over retain limit (2); will delete this file entity
+0255.219 (0) others: over retain limit (2); will delete this file entity
+0255.219 (0) Delete file: backup_2022-07-26-1213_Curriculum_Vitae_9b8af9a62af0-plugins.zip, service=googledrive
+0255.222 (0) Delete file: backup_2022-07-26-1213_Curriculum_Vitae_9b8af9a62af0-themes.zip, service=googledrive
+0255.225 (0) Delete file: backup_2022-07-26-1213_Curriculum_Vitae_9b8af9a62af0-uploads.zip, service=googledrive
+0255.228 (0) Delete file: backup_2022-07-26-1213_Curriculum_Vitae_9b8af9a62af0-others.zip, service=googledrive
+0256.338 (0) Google Drive: backup_2022-07-26-1213_Curriculum_Vitae_9b8af9a62af0-others.zip: Deletion successful
+0256.868 (0) Google Drive: backup_2022-07-26-1213_Curriculum_Vitae_9b8af9a62af0-themes.zip: Deletion successful
+0257.405 (0) Google Drive: backup_2022-07-26-1213_Curriculum_Vitae_9b8af9a62af0-plugins.zip: Deletion successful
+0257.936 (0) Google Drive: backup_2022-07-26-1213_Curriculum_Vitae_9b8af9a62af0-uploads.zip: Deletion successful
+0257.943 (0) This backup set is now empty; will remove from history
+0257.947 (0) Deleting log file (log.9b8af9a62af0.txt)
+0257.950 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0257.962 (0) Resume backup (241cb62e193a, 0): finish run
+0257.970 (0) Decremented the semaphore (fd) by 1
+0257.975 (0) Semaphore (fd) unlocked
+0257.979 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0257.991 (0) No email will/can be sent - the user has not configured an email address.
+0257.994 (0) The backup apparently succeeded and is now complete
