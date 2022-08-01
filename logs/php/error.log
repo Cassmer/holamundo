@@ -125,3 +125,24 @@
 [01-Aug-2022 10:45:18 UTC] PHP  17. UpdraftPlus_Backup->make_zipfile() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\backup.php:309
 [01-Aug-2022 10:45:18 UTC] PHP  18. UpdraftPlus_Backup->makezip_addfiles() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\backup.php:3605
 [01-Aug-2022 10:45:18 UTC] PHP  19. UpdraftPlus_ZipArchive->close() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\backup.php:3997
+[01-Aug-2022 10:52:09 UTC] PHP Warning:  ZipArchive::close(): Renaming temporary file failed: Permission denied in C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\backup.php on line 3997
+[01-Aug-2022 10:52:09 UTC] PHP Stack trace:
+[01-Aug-2022 10:52:09 UTC] PHP   1. {main}() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-admin\admin-ajax.php:0
+[01-Aug-2022 10:52:09 UTC] PHP   2. do_action() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-admin\admin-ajax.php:187
+[01-Aug-2022 10:52:09 UTC] PHP   3. WP_Hook->do_action() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-includes\plugin.php:476
+[01-Aug-2022 10:52:09 UTC] PHP   4. WP_Hook->apply_filters() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-includes\class-wp-hook.php:331
+[01-Aug-2022 10:52:09 UTC] PHP   5. UpdraftPlus_Admin->updraft_ajax_handler() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-includes\class-wp-hook.php:307
+[01-Aug-2022 10:52:09 UTC] PHP   6. UpdraftPlus_WPAdmin_Commands->backupnow() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\admin.php:1692
+[01-Aug-2022 10:52:09 UTC] PHP   7. UpdraftPlus_Admin->request_backupnow() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\class-commands.php:131
+[01-Aug-2022 10:52:09 UTC] PHP   8. do_action() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\admin.php:2394
+[01-Aug-2022 10:52:09 UTC] PHP   9. WP_Hook->do_action() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-includes\plugin.php:476
+[01-Aug-2022 10:52:09 UTC] PHP  10. WP_Hook->apply_filters() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-includes\class-wp-hook.php:331
+[01-Aug-2022 10:52:09 UTC] PHP  11. UpdraftPlus->backup_all() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-includes\class-wp-hook.php:307
+[01-Aug-2022 10:52:09 UTC] PHP  12. UpdraftPlus->boot_backup() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\class-updraftplus.php:3000
+[01-Aug-2022 10:52:09 UTC] PHP  13. UpdraftPlus->backup_resume() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\class-updraftplus.php:3449
+[01-Aug-2022 10:52:09 UTC] PHP  14. UpdraftPlus_Backup->resumable_backup_of_files() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\class-updraftplus.php:2443
+[01-Aug-2022 10:52:09 UTC] PHP  15. UpdraftPlus_Backup->backup_dirs() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\backup.php:1482
+[01-Aug-2022 10:52:09 UTC] PHP  16. UpdraftPlus_Backup->create_zip() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\backup.php:1425
+[01-Aug-2022 10:52:09 UTC] PHP  17. UpdraftPlus_Backup->make_zipfile() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\backup.php:309
+[01-Aug-2022 10:52:09 UTC] PHP  18. UpdraftPlus_Backup->makezip_addfiles() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\backup.php:3605
+[01-Aug-2022 10:52:09 UTC] PHP  19. UpdraftPlus_ZipArchive->close() C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\backup.php:3997
