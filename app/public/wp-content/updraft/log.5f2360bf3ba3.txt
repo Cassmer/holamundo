@@ -465,3 +465,104 @@
 0211.184 (0) Google Drive: quota usage: failed to obtain this information: Operation timed out after 15003 milliseconds with 0 out of 0 bytes received
 0211.189 (0) Google Drive: backup_2022-08-03-1251_Curriculum_Vitae_5f2360bf3ba3-db.gz: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
 0226.207 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Connection timed out after 15010 milliseconds (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0296.828 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60009 milliseconds with 0 bytes received (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0296.832 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60009 milliseconds with 0 bytes received (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0296.840 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0296.845 (0) Number of backup sets in history: 4; groups (db): 1
+0296.848 (0) Examining (for databases) backup set with group_id=0, nonce=c83e425c882b, datestamp=1659524104 (Aug 03 2022 10:55:04)
+0296.852 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0296.856 (0) Examining (for databases) backup set with group_id=0, nonce=5f2360bf3ba3, datestamp=1659523878 (Aug 03 2022 10:51:18)
+0296.856 (0) This backup set is the backup set just made, so will not be deleted.
+0296.856 (0) Examining (for databases) backup set with group_id=0, nonce=1a554f61107a, datestamp=1659432212 (Aug 02 2022 09:23:32)
+0296.856 (0) 1659432212: db: this set includes a database (backup_2022-08-02-1123_Curriculum_Vitae_1a554f61107a-db.gz); db count is now 2
+0296.856 (0) 1659432212: db: over retain limit (2); will delete this database
+0296.857 (0) Delete file: backup_2022-08-02-1123_Curriculum_Vitae_1a554f61107a-db.gz, service=googledrive
+0311.871 (0) Google Drive: get_subitems: An error occurred (will not fetch further): Connection timed out after 15007 milliseconds
+0311.885 (0) Google Drive: creating path: /UpdraftPlus
+0326.897 (0) Google Drive: id_from_path failure: exception (UDP_Google_IO_Exception): Connection timed out after 15002 milliseconds (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0326.905 (0) Google Drive: id_from_path: retry (2)
+0356.561 (0) Google Drive: backup_2022-08-02-1123_Curriculum_Vitae_1a554f61107a-db.gz: Deletion successful
+0356.586 (0) The time we have been running (356.6) is approaching the resumption interval (300) - increasing resumption interval to 387
+0356.600 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0356.606 (0) Examining (for databases) backup set with group_id=0, nonce=ec659ae64967, datestamp=1659350629 (Aug 01 2022 10:43:49)
+0356.613 (0) 1659350629: db: this set includes a database (backup_2022-08-01-1243_Curriculum_Vitae_ec659ae64967-db.gz); db count is now 2
+0356.613 (0) 1659350629: db: over retain limit (2); will delete this database
+0356.614 (0) Delete file: backup_2022-08-01-1243_Curriculum_Vitae_ec659ae64967-db.gz, service=googledrive
+0363.321 (0) Google Drive: backup_2022-08-01-1243_Curriculum_Vitae_ec659ae64967-db.gz: Deletion successful
+0363.337 (0) The time we have been running (363.3) is approaching the resumption interval (387) - increasing resumption interval to 394
+0363.346 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0363.349 (0) Number of backup sets in history: 4; groups (files): 1
+0363.352 (0) Examining (for files) backup set with nonce=c83e425c882b, datestamp=1659524104 (Aug 03 2022 10:55:04)
+0363.355 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0363.359 (0) Examining (for files) backup set with nonce=5f2360bf3ba3, datestamp=1659523878 (Aug 03 2022 10:51:18)
+0363.359 (0) This backup set is the backup set just made, so will not be deleted.
+0363.362 (0) This backup set is the backup set just made, so will not be deleted.
+0363.363 (0) This backup set is the backup set just made, so will not be deleted.
+0363.364 (0) This backup set is the backup set just made, so will not be deleted.
+0363.364 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0363.368 (0) Examining (for files) backup set with nonce=1a554f61107a, datestamp=1659432212 (Aug 02 2022 09:23:32)
+0363.368 (0) plugins: over retain limit (2); will delete this file entity
+0363.368 (0) themes: over retain limit (2); will delete this file entity
+0363.368 (0) uploads: over retain limit (2); will delete this file entity
+0363.368 (0) others: over retain limit (2); will delete this file entity
+0363.368 (0) Delete file: backup_2022-08-02-1123_Curriculum_Vitae_1a554f61107a-plugins.zip, service=googledrive
+0363.371 (0) Delete file: backup_2022-08-02-1123_Curriculum_Vitae_1a554f61107a-themes.zip, service=googledrive
+0363.374 (0) Delete file: backup_2022-08-02-1123_Curriculum_Vitae_1a554f61107a-uploads.zip, service=googledrive
+0363.377 (0) Delete file: backup_2022-08-02-1123_Curriculum_Vitae_1a554f61107a-others.zip, service=googledrive
+0364.376 (0) Google Drive: backup_2022-08-02-1123_Curriculum_Vitae_1a554f61107a-others.zip: Deletion successful
+0364.859 (0) Google Drive: backup_2022-08-02-1123_Curriculum_Vitae_1a554f61107a-uploads.zip: Deletion successful
+0365.371 (0) Google Drive: backup_2022-08-02-1123_Curriculum_Vitae_1a554f61107a-themes.zip: Deletion successful
+0366.101 (0) Google Drive: backup_2022-08-02-1123_Curriculum_Vitae_1a554f61107a-plugins.zip: Deletion successful
+0366.113 (0) The time we have been running (366.1) is approaching the resumption interval (394) - increasing resumption interval to 397
+0366.121 (0) This backup set is now empty; will remove from history
+0366.124 (0) Deleting log file (log.1a554f61107a.txt)
+0366.128 (0) Examining (for files) backup set with nonce=ec659ae64967, datestamp=1659350629 (Aug 01 2022 10:43:49)
+0366.128 (0) plugins: over retain limit (2); will delete this file entity
+0366.128 (0) themes: over retain limit (2); will delete this file entity
+0366.128 (0) uploads: over retain limit (2); will delete this file entity
+0366.128 (0) others: over retain limit (2); will delete this file entity
+0366.128 (0) Delete file: backup_2022-08-01-1243_Curriculum_Vitae_ec659ae64967-plugins.zip, service=googledrive
+0366.132 (0) Delete file: backup_2022-08-01-1243_Curriculum_Vitae_ec659ae64967-themes.zip, service=googledrive
+0366.136 (0) Delete file: backup_2022-08-01-1243_Curriculum_Vitae_ec659ae64967-uploads.zip, service=googledrive
+0366.140 (0) Delete file: backup_2022-08-01-1243_Curriculum_Vitae_ec659ae64967-others.zip, service=googledrive
+0367.560 (0) Google Drive: backup_2022-08-01-1243_Curriculum_Vitae_ec659ae64967-others.zip: Deletion successful
+0368.008 (0) Google Drive: backup_2022-08-01-1243_Curriculum_Vitae_ec659ae64967-uploads.zip: Deletion successful
+0368.441 (0) Google Drive: backup_2022-08-01-1243_Curriculum_Vitae_ec659ae64967-themes.zip: Deletion successful
+0368.902 (0) Google Drive: backup_2022-08-01-1243_Curriculum_Vitae_ec659ae64967-plugins.zip: Deletion successful
+0368.914 (0) The time we have been running (368.9) is approaching the resumption interval (397) - increasing resumption interval to 399
+0368.923 (0) This backup set is now empty; will remove from history
+0368.926 (0) Deleting log file (log.ec659ae64967.txt)
+0368.929 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0368.940 (0) Resume backup (5f2360bf3ba3, 0): finish run
+0368.950 (0) Decremented the semaphore (fd) by 1
+0368.957 (0) Semaphore (fd) unlocked
+0368.960 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0368.974 (0) Rescheduling resumption 1: moving to 60 seconds from now (1659524307)
+0368.982 (0) No email will/can be sent - the user has not configured an email address.
+0368.986 (0) The backup has not finished; a resumption is scheduled
+0405.618 (1) Opened log file at time: Wed, 03 Aug 2022 10:58:03 +0000 on http://holamundo.local
+0405.623 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.14 WP: 6.0.1 PHP: 7.4.1 (cgi-fcgi, Windows NT DESKTOP-BAKLRDF 10.0 build 19044 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: es_ES Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 15.9M | 2M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0405.627 (1) Free space on disk containing Updraft's temporary directory: 170104.1 MB
+0405.633 (1) Requesting backup semaphore lock (5f2360bf3ba3)
+0405.640 (1) [Debug] Lock option (updraft_lock_5f2360bf3ba3, wp_options) was created in the database
+0405.643 (1) [Info] Lock (updraft_lock_5f2360bf3ba3, wp_options) acquired after initialising the database
+0405.651 (1) Backup run: resumption=1, nonce=5f2360bf3ba3, file_nonce=5f2360bf3ba3 begun at=1659523878 (406s ago), job type=backup, previous check-in=368.9s
+0405.660 (1) Scheduling a resumption (2) after 399 seconds (1659524683) in case this run gets aborted
+0405.670 (1) Checking if we have a zip executable available
+0405.674 (1) Creation of backups of directories: already finished
+0405.679 (1) Saving backup status to database (elements: 8)
+0405.692 (1) Database dump (WordPress DB): Creation was completed already
+0405.698 (1) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0405.716 (1) backup_2022-08-03-1251_Curriculum_Vitae_5f2360bf3ba3-plugins.zip: plugins: This file has already been successfully uploaded
+0405.720 (1) backup_2022-08-03-1251_Curriculum_Vitae_5f2360bf3ba3-themes.zip: themes: This file has already been successfully uploaded
+0405.723 (1) backup_2022-08-03-1251_Curriculum_Vitae_5f2360bf3ba3-uploads.zip: uploads: This file has already been successfully uploaded
+0405.727 (1) backup_2022-08-03-1251_Curriculum_Vitae_5f2360bf3ba3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0405.731 (1) backup_2022-08-03-1251_Curriculum_Vitae_5f2360bf3ba3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0405.734 (1) Saving backup history. Total backup size: 79.1 MB
+0405.742 (1) Requesting upload of the files that have not yet been successfully uploaded (2)
+0405.749 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0405.754 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d80824397ac3fda3a4f9eb46dbabc45e)
+0405.764 (1) Google Drive: id_from_path failure: exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0405.775 (1) Google Drive: id_from_path: retry (2)
+0408.792 (1) Google Drive: id_from_path failure: exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0408.797 (1) Google Drive: id_from_path: retry (1)

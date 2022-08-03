@@ -402,3 +402,54 @@
 0051.406 (0) Google Drive: creating path: /UpdraftPlus
 0066.421 (0) Google Drive: id_from_path failure: exception (UDP_Google_IO_Exception): Connection timed out after 15005 milliseconds (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
 0066.426 (0) Google Drive: id_from_path: retry (2)
+0102.735 (0) Google Drive: quota usage: failed to obtain this information: Connection timed out after 15000 milliseconds
+0102.741 (0) Google Drive: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-plugins.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0133.793 (0) Googledrive chunked upload: 3.2 % uploaded (1048576)
+0137.345 (0) Googledrive chunked upload: 6.4 % uploaded (2097152)
+0177.505 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): OpenSSL SSL_read: Connection was reset (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0177.553 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0177.558 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0177.563 (0) An error condition has occurred for the first time during this job
+0177.598 (0) Google Drive: quota usage: failed to obtain this information: Could not resolve host: www.googleapis.com
+0177.603 (0) Google Drive: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-themes.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0177.624 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0177.661 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0177.662 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0177.696 (0) Google Drive: quota usage: failed to obtain this information: Could not resolve host: www.googleapis.com
+0177.700 (0) Google Drive: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-uploads.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0177.710 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0177.720 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0177.721 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0177.730 (0) Google Drive: quota usage: failed to obtain this information: Could not resolve host: www.googleapis.com
+0177.734 (0) Google Drive: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-others.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0177.744 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0177.754 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0177.755 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0177.763 (0) Google Drive: quota usage: failed to obtain this information: Could not resolve host: www.googleapis.com
+0177.767 (0) Google Drive: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-db.gz: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0177.776 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0177.784 (0) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0177.786 (0) Google Drive: Upload exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0177.795 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0177.800 (0) Number of backup sets in history: 2; groups (db): 1
+0177.802 (0) Examining (for databases) backup set with group_id=0, nonce=c83e425c882b, datestamp=1659524104 (Aug 03 2022 10:55:04)
+0177.806 (0) This backup set is the backup set just made, so will not be deleted.
+0177.806 (0) Examining (for databases) backup set with group_id=0, nonce=5f2360bf3ba3, datestamp=1659523878 (Aug 03 2022 10:51:18)
+0177.806 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0177.810 (0) Number of backup sets in history: 2; groups (files): 1
+0177.815 (0) Examining (for files) backup set with nonce=c83e425c882b, datestamp=1659524104 (Aug 03 2022 10:55:04)
+0177.815 (0) This backup set is the backup set just made, so will not be deleted.
+0177.818 (0) This backup set is the backup set just made, so will not be deleted.
+0177.819 (0) This backup set is the backup set just made, so will not be deleted.
+0177.819 (0) This backup set is the backup set just made, so will not be deleted.
+0177.820 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0177.824 (0) Examining (for files) backup set with nonce=5f2360bf3ba3, datestamp=1659523878 (Aug 03 2022 10:51:18)
+0177.824 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0177.825 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0177.833 (0) Resume backup (c83e425c882b, 0): finish run
+0177.840 (0) Decremented the semaphore (fd) by 1
+0177.853 (0) Semaphore (fd, wp_options) still locked (0)
+0177.856 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0177.868 (0) Rescheduling resumption 1: moving to 60 seconds from now (1659524342)
+0177.877 (0) No email will/can be sent - the user has not configured an email address.
+0177.881 (0) The backup has not finished; a resumption is scheduled
