@@ -566,3 +566,36 @@
 0405.775 (1) Google Drive: id_from_path: retry (2)
 0408.792 (1) Google Drive: id_from_path failure: exception (UDP_Google_IO_Exception): Could not resolve host: www.googleapis.com (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
 0408.797 (1) Google Drive: id_from_path: retry (1)
+0425.701 (1) Google Drive: quota usage: used=145.7 MB, total=15360 MB, available=15214.3 MB
+0425.706 (1) Google Drive: backup_2022-08-03-1251_Curriculum_Vitae_5f2360bf3ba3-others.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0458.300 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 15009 milliseconds with 0 out of 0 bytes received (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0514.369 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Connection timed out after 15014 milliseconds (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0514.379 (1) Google Drive: Upload exception (UDP_Google_IO_Exception): Connection timed out after 15014 milliseconds (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0514.385 (1) An error condition has occurred for the first time during this job
+0516.250 (1) Google Drive: quota usage: used=124.9 MB, total=15360 MB, available=15235.1 MB
+0516.255 (1) Google Drive: backup_2022-08-03-1251_Curriculum_Vitae_5f2360bf3ba3-db.gz: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0518.508 (1) Googledrive chunked upload: 100 % uploaded
+0518.522 (1) Google Drive: OK: Archive backup_2022-08-03-1251_Curriculum_Vitae_5f2360bf3ba3-db.gz uploaded in 2.26 seconds
+0518.526 (1) Recording as successfully uploaded: backup_2022-08-03-1251_Curriculum_Vitae_5f2360bf3ba3-db.gz
+0518.533 (1) Deleting local file: backup_2022-08-03-1251_Curriculum_Vitae_5f2360bf3ba3-db.gz: OK
+0518.541 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0518.545 (1) Number of backup sets in history: 2; groups (db): 1
+0518.548 (1) Examining (for databases) backup set with group_id=0, nonce=c83e425c882b, datestamp=1659524104 (Aug 03 2022 10:55:04)
+0518.552 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0518.555 (1) Examining (for databases) backup set with group_id=0, nonce=5f2360bf3ba3, datestamp=1659523878 (Aug 03 2022 10:51:18)
+0518.555 (1) This backup set is the backup set just made, so will not be deleted.
+0518.555 (1) Number of backup sets in history: 2; groups (files): 1
+0518.559 (1) Examining (for files) backup set with nonce=c83e425c882b, datestamp=1659524104 (Aug 03 2022 10:55:04)
+0518.559 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0518.563 (1) Examining (for files) backup set with nonce=5f2360bf3ba3, datestamp=1659523878 (Aug 03 2022 10:51:18)
+0518.563 (1) This backup set is the backup set just made, so will not be deleted.
+0518.567 (1) This backup set is the backup set just made, so will not be deleted.
+0518.568 (1) This backup set is the backup set just made, so will not be deleted.
+0518.568 (1) This backup set is the backup set just made, so will not be deleted.
+0518.568 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0518.572 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0518.580 (1) Resume backup (5f2360bf3ba3, 1): finish run
+0518.587 (1) [Info] Lock option (updraft_lock_5f2360bf3ba3, wp_options) released
+0518.593 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0518.601 (1) No email will/can be sent - the user has not configured an email address.
+0518.605 (1) The backup has not finished; a resumption is scheduled
