@@ -453,3 +453,89 @@
 0177.868 (0) Rescheduling resumption 1: moving to 60 seconds from now (1659524342)
 0177.877 (0) No email will/can be sent - the user has not configured an email address.
 0177.881 (0) The backup has not finished; a resumption is scheduled
+0295.668 (1) Opened log file at time: Wed, 03 Aug 2022 11:00:00 +0000 on http://holamundo.local
+0295.672 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.14 WP: 6.0.1 PHP: 7.4.1 (cgi-fcgi, Windows NT DESKTOP-BAKLRDF 10.0 build 19044 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: es_ES Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 15.9M | 2M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0295.675 (1) Free space on disk containing Updraft's temporary directory: 170105.4 MB
+0295.678 (1) Requesting backup semaphore lock (c83e425c882b)
+0295.685 (1) [Debug] Lock option (updraft_lock_c83e425c882b, wp_options) was created in the database
+0295.687 (1) [Info] Lock (updraft_lock_c83e425c882b, wp_options) acquired after initialising the database
+0295.693 (1) Backup run: resumption=1, nonce=c83e425c882b, file_nonce=c83e425c882b begun at=1659524104 (296s ago), job type=backup, previous check-in=137.34s
+0295.700 (1) Scheduling a resumption (2) after 300 seconds (1659524700) in case this run gets aborted
+0295.708 (1) Checking if we have a zip executable available
+0295.711 (1) Creation of backups of directories: already finished
+0295.715 (1) Saving backup status to database (elements: 8)
+0295.723 (1) Database dump (WordPress DB): Creation was completed already
+0295.727 (1) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0295.740 (1) backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0295.745 (1) backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0295.749 (1) backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0295.753 (1) backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0295.756 (1) backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-db.gz: db: This file has not yet been successfully uploaded: will queue
+0295.760 (1) Saving backup history. Total backup size: 79.1 MB
+0295.769 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0295.777 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0295.780 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d80824397ac3fda3a4f9eb46dbabc45e)
+0297.815 (1) Google Drive: quota usage: used=125.2 MB, total=15360 MB, available=15234.8 MB
+0297.822 (1) Google Drive: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-plugins.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0298.691 (1) Googledrive chunked upload: 3.2 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 16.7 / 2)
+0358.708 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0419.177 (1) Google Drive: ERROR: upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0419.181 (1) Google Drive: Upload exception (UDP_Google_IO_Exception): Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0419.185 (1) An error condition has occurred for the first time during this job
+0419.533 (1) Google Drive: quota usage: used=125.2 MB, total=15360 MB, available=15234.8 MB
+0419.539 (1) Google Drive: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-themes.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0420.267 (1) Googledrive chunked upload: 3.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 21.7 / 6)
+0421.050 (1) Googledrive chunked upload: 11.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 21.7 / 6)
+0421.862 (1) Googledrive chunked upload: 27.6 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 21.7 / 6)
+0423.710 (1) Googledrive chunked upload: 59.2 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 21.7 / 6)
+0426.351 (1) Googledrive chunked upload: 100 % uploaded (15728640)
+0426.368 (1) Google Drive: OK: Archive backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-themes.zip uploaded in 6.82 seconds
+0426.373 (1) Recording as successfully uploaded: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-themes.zip
+0426.386 (1) Deleting local file: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-themes.zip: OK
+0426.391 (1) Deleting zip manifest (backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-themes.zip.list.tmp)
+0426.885 (1) Google Drive: quota usage: used=150.6 MB, total=15360 MB, available=15209.4 MB
+0426.890 (1) Google Drive: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-uploads.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0427.545 (1) Googledrive chunked upload: 4.8 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 21.7 / 6)
+0428.127 (1) Googledrive chunked upload: 14.3 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 21.7 / 6)
+0428.980 (1) Googledrive chunked upload: 33.4 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 21.7 / 6)
+0430.019 (1) Googledrive chunked upload: 71.6 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 21.7 / 6)
+0431.611 (1) Googledrive chunked upload: 100 % uploaded (15728640)
+0431.624 (1) Google Drive: OK: Archive backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-uploads.zip uploaded in 4.73 seconds
+0431.629 (1) Recording as successfully uploaded: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-uploads.zip
+0431.641 (1) Deleting local file: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-uploads.zip: OK
+0431.645 (1) Deleting zip manifest (backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-uploads.zip.list.tmp)
+0432.099 (1) Google Drive: quota usage: used=171.5 MB, total=15360 MB, available=15188.5 MB
+0432.104 (1) Google Drive: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-others.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0432.835 (1) Googledrive chunked upload: 70.6 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 21.7 / 6)
+0434.217 (1) Googledrive chunked upload: 100 % uploaded (1048576)
+0434.231 (1) Google Drive: OK: Archive backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-others.zip uploaded in 2.12 seconds
+0434.234 (1) Recording as successfully uploaded: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-others.zip
+0434.243 (1) Deleting local file: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-others.zip: OK
+0434.246 (1) Deleting zip manifest (backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-others.zip.list.tmp)
+0434.753 (1) Google Drive: quota usage: used=172.9 MB, total=15360 MB, available=15187.1 MB
+0434.757 (1) Google Drive: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-db.gz: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0436.414 (1) Googledrive chunked upload: 100 % uploaded
+0436.429 (1) Google Drive: OK: Archive backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-db.gz uploaded in 1.67 seconds
+0436.432 (1) Recording as successfully uploaded: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-db.gz
+0436.441 (1) Deleting local file: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-db.gz: OK
+0436.448 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0436.452 (1) Number of backup sets in history: 2; groups (db): 1
+0436.455 (1) Examining (for databases) backup set with group_id=0, nonce=c83e425c882b, datestamp=1659524104 (Aug 03 2022 10:55:04)
+0436.459 (1) This backup set is the backup set just made, so will not be deleted.
+0436.459 (1) Examining (for databases) backup set with group_id=0, nonce=5f2360bf3ba3, datestamp=1659523878 (Aug 03 2022 10:51:18)
+0436.459 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0436.462 (1) Number of backup sets in history: 2; groups (files): 1
+0436.465 (1) Examining (for files) backup set with nonce=c83e425c882b, datestamp=1659524104 (Aug 03 2022 10:55:04)
+0436.465 (1) This backup set is the backup set just made, so will not be deleted.
+0436.468 (1) This backup set is the backup set just made, so will not be deleted.
+0436.468 (1) This backup set is the backup set just made, so will not be deleted.
+0436.469 (1) This backup set is the backup set just made, so will not be deleted.
+0436.469 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0436.473 (1) Examining (for files) backup set with nonce=5f2360bf3ba3, datestamp=1659523878 (Aug 03 2022 10:51:18)
+0436.473 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0436.474 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0436.481 (1) Resume backup (c83e425c882b, 1): finish run
+0436.487 (1) [Info] Lock option (updraft_lock_c83e425c882b, wp_options) released
+0436.493 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0436.501 (1) No email will/can be sent - the user has not configured an email address.
+0436.505 (1) The backup has not finished; a resumption is scheduled
