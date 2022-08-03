@@ -539,3 +539,57 @@
 0436.493 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
 0436.501 (1) No email will/can be sent - the user has not configured an email address.
 0436.505 (1) The backup has not finished; a resumption is scheduled
+0596.790 (2) Opened log file at time: Wed, 03 Aug 2022 11:05:01 +0000 on http://holamundo.local
+0596.793 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.14 WP: 6.0.1 PHP: 7.4.1 (cgi-fcgi, Windows NT DESKTOP-BAKLRDF 10.0 build 19044 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: es_ES Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 15.9M | 2M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0596.797 (2) Free space on disk containing Updraft's temporary directory: 170148.5 MB
+0596.800 (2) Requesting backup semaphore lock (c83e425c882b)
+0596.805 (2) [Info] Lock (updraft_lock_c83e425c882b, wp_options) acquired
+0596.812 (2) Backup run: resumption=2, nonce=c83e425c882b, file_nonce=c83e425c882b begun at=1659524104 (597s ago), job type=backup, previous check-in=140.74s
+0596.819 (2) Scheduling a resumption (3) after 300 seconds (1659525001) in case this run gets aborted
+0596.827 (2) Checking if we have a zip executable available
+0596.830 (2) Creation of backups of directories: already finished
+0596.834 (2) Saving backup status to database (elements: 8)
+0596.843 (2) Database dump (WordPress DB): Creation was completed already
+0596.847 (2) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0596.856 (2) backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0596.860 (2) backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-themes.zip: themes: This file has already been successfully uploaded
+0596.864 (2) backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-uploads.zip: uploads: This file has already been successfully uploaded
+0596.868 (2) backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-others.zip: others: This file has already been successfully uploaded
+0596.872 (2) backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-db.gz: db: This file has already been successfully uploaded
+0596.876 (2) Saving backup history. Total backup size: Unknown
+0596.885 (2) Requesting upload of the files that have not yet been successfully uploaded (1)
+0596.893 (2) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0596.897 (2) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d80824397ac3fda3a4f9eb46dbabc45e)
+0597.986 (2) Google Drive: quota usage: used=174.7 MB, total=15360 MB, available=15185.3 MB
+0597.992 (2) Google Drive: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-plugins.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0598.794 (2) Googledrive chunked upload: 3.2 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 16.7 / 2)
+0599.246 (2) Googledrive chunked upload: 9.7 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 16.7 / 2)
+0599.946 (2) Googledrive chunked upload: 22.5 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 16.7 / 2)
+0601.047 (2) Googledrive chunked upload: 48.3 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 16.7 / 2)
+0602.842 (2) Googledrive chunked upload: 99.7 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 16.7 / 2)
+0603.942 (2) Googledrive chunked upload: 100 % uploaded (32505856)
+0603.963 (2) Google Drive: OK: Archive backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-plugins.zip uploaded in 5.96 seconds
+0603.969 (2) Recording as successfully uploaded: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-plugins.zip
+0603.990 (2) Deleting local file: backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-plugins.zip: OK
+0603.996 (2) Deleting zip manifest (backup_2022-08-03-1255_Curriculum_Vitae_c83e425c882b-plugins.zip.list.tmp)
+0604.016 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0604.021 (2) Number of backup sets in history: 2; groups (db): 1
+0604.025 (2) Examining (for databases) backup set with group_id=0, nonce=c83e425c882b, datestamp=1659524104 (Aug 03 2022 10:55:04)
+0604.029 (2) This backup set is the backup set just made, so will not be deleted.
+0604.029 (2) Examining (for databases) backup set with group_id=0, nonce=5f2360bf3ba3, datestamp=1659523878 (Aug 03 2022 10:51:18)
+0604.029 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0604.033 (2) Number of backup sets in history: 2; groups (files): 1
+0604.038 (2) Examining (for files) backup set with nonce=c83e425c882b, datestamp=1659524104 (Aug 03 2022 10:55:04)
+0604.038 (2) This backup set is the backup set just made, so will not be deleted.
+0604.042 (2) This backup set is the backup set just made, so will not be deleted.
+0604.042 (2) This backup set is the backup set just made, so will not be deleted.
+0604.042 (2) This backup set is the backup set just made, so will not be deleted.
+0604.043 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0604.046 (2) Examining (for files) backup set with nonce=5f2360bf3ba3, datestamp=1659523878 (Aug 03 2022 10:51:18)
+0604.046 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0604.047 (2) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0604.056 (2) Resume backup (c83e425c882b, 2): finish run
+0604.063 (2) [Info] Lock option (updraft_lock_c83e425c882b, wp_options) released
+0604.069 (2) There were no errors in the uploads, so the 'resume' event (3) is being unscheduled
+0604.081 (2) No email will/can be sent - the user has not configured an email address.
+0604.085 (2) The backup apparently succeeded and is now complete
