@@ -1,0 +1,693 @@
+0000.001 (0) Opened log file at time: Wed, 10 Aug 2022 08:06:36 +0000 on http://holamundo.local
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.14 WP: 6.0.1 PHP: 7.4.1 (cgi-fcgi, Windows NT DESKTOP-BAKLRDF 10.0 build 19044 (Windows 10) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: es_ES Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 19.8M | 4M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.011 (0) Free space on disk containing Updraft's temporary directory: 173242.9 MB
+0000.018 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.027 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.039 (0) Set semaphore last lock (fd) time to 2022-08-10 08:06:36
+0000.042 (0) Semaphore lock (fd) complete
+0000.054 (0) Backup run: resumption=0, nonce=d970e1582b33, file_nonce=d970e1582b33 begun at=1660118796 (0s ago), job type=backup
+0000.060 (0) Scheduling a resumption (1) after 300 seconds (1660119096) in case this run gets aborted
+0000.081 (0) Checking if we have a zip executable available
+0000.088 (0) Creation of backups of directories: beginning
+0000.101 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.584 (0) Total entities for the zip file: 1336 directories, 7210 files (0 skipped as non-modified), 95.3 MB
+0003.600 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.1 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0004.407 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 100 files added (on-disk size: 255.4 KB)
+0005.313 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 200 files added (on-disk size: 255.4 KB)
+0005.900 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 292 (293) files added so far); re-opening (prior size: 255.4 KB)
+0006.190 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 300 files added (on-disk size: 711.8 KB)
+0006.809 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 400 files added (on-disk size: 711.8 KB)
+0008.236 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 500 files added (on-disk size: 711.8 KB)
+0008.891 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 300 (593) files added so far); re-opening (prior size: 711.8 KB)
+0009.453 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 600 files added (on-disk size: 1818.7 KB)
+0010.284 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 700 files added (on-disk size: 1818.7 KB)
+0010.989 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 800 files added (on-disk size: 1818.7 KB)
+0011.619 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 900 files added (on-disk size: 1818.7 KB)
+0011.890 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 350 (943) files added so far); re-opening (prior size: 1818.7 KB)
+0013.032 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 1000 files added (on-disk size: 2102.5 KB)
+0013.557 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 1100 files added (on-disk size: 2102.5 KB)
+0014.119 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 1200 files added (on-disk size: 2102.5 KB)
+0014.846 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 1300 files added (on-disk size: 2102.5 KB)
+0014.895 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 363 (1306) files added so far); re-opening (prior size: 2102.5 KB)
+0015.889 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 1400 files added (on-disk size: 2390.5 KB)
+0016.612 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 1500 files added (on-disk size: 2390.5 KB)
+0017.329 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 1600 files added (on-disk size: 2390.5 KB)
+0017.795 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 1700 files added (on-disk size: 2390.5 KB)
+0017.898 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.5 MB, 404 (1710) files added so far); re-opening (prior size: 2390.5 KB)
+0019.990 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 1800 files added (on-disk size: 4711.4 KB)
+0020.586 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 1900 files added (on-disk size: 4711.4 KB)
+0020.658 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 2000 files added (on-disk size: 4711.4 KB)
+0020.739 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 2100 files added (on-disk size: 4711.4 KB)
+0020.815 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 2200 files added (on-disk size: 4711.4 KB)
+0020.890 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (10.1 MB, 573 (2283) files added so far); re-opening (prior size: 4711.4 KB)
+0022.621 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 2300 files added (on-disk size: 8707.6 KB)
+0022.687 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 2400 files added (on-disk size: 8707.6 KB)
+0022.754 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 2500 files added (on-disk size: 8707.6 KB)
+0022.820 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 2600 files added (on-disk size: 8707.6 KB)
+0022.889 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 2700 files added (on-disk size: 8707.6 KB)
+0022.956 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 2800 files added (on-disk size: 8707.6 KB)
+0023.031 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 2900 files added (on-disk size: 8707.6 KB)
+0023.099 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 3000 files added (on-disk size: 8707.6 KB)
+0023.157 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 3100 files added (on-disk size: 8707.6 KB)
+0023.195 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.2 MB, 7210 files batched, 886 (3169) added so far); re-opening (prior size: 8707.6 KB)
+0026.029 (0) A useful amount of data was added after this amount of zip processing: 4.1 s (normalised: 4.1 s, rate: 6239.5 KB/s)
+0026.036 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.1396069526672, normalised_time=4.1029020811288, max_time=26.031878948212, data points known=1, old_max_bytes=26214400, new_max_bytes=99794254)
+0026.120 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 3200 files added (on-disk size: 15807.9 KB)
+0026.197 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 3300 files added (on-disk size: 15807.9 KB)
+0026.254 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 3400 files added (on-disk size: 15807.9 KB)
+0026.312 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 3500 files added (on-disk size: 15807.9 KB)
+0026.378 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 3600 files added (on-disk size: 15807.9 KB)
+0026.449 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 3700 files added (on-disk size: 15807.9 KB)
+0026.507 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 3800 files added (on-disk size: 15807.9 KB)
+0026.576 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 3900 files added (on-disk size: 15807.9 KB)
+0026.632 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 4000 files added (on-disk size: 15807.9 KB)
+0026.690 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 4100 files added (on-disk size: 15807.9 KB)
+0026.729 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.6 MB, 7210 files batched, 1001 (4170) added so far); re-opening (prior size: 15807.9 KB)
+0029.403 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 4200 files added (on-disk size: 22171.9 KB)
+0029.468 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 4300 files added (on-disk size: 22171.9 KB)
+0029.535 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 4400 files added (on-disk size: 22171.9 KB)
+0029.602 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 4500 files added (on-disk size: 22171.9 KB)
+0029.663 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 4600 files added (on-disk size: 22171.9 KB)
+0029.717 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 4700 files added (on-disk size: 22171.9 KB)
+0029.776 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 4800 files added (on-disk size: 22171.9 KB)
+0029.827 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 4900 files added (on-disk size: 22171.9 KB)
+0029.877 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 5000 files added (on-disk size: 22171.9 KB)
+0029.952 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 5100 files added (on-disk size: 22171.9 KB)
+0029.998 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.2 MB, 7210 files batched, 1001 (5171) added so far); re-opening (prior size: 22171.9 KB)
+0031.735 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 5200 files added (on-disk size: 24324.5 KB)
+0031.796 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 5300 files added (on-disk size: 24324.5 KB)
+0031.857 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 5400 files added (on-disk size: 24324.5 KB)
+0031.936 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 5500 files added (on-disk size: 24324.5 KB)
+0031.992 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 5600 files added (on-disk size: 24324.5 KB)
+0032.043 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 5700 files added (on-disk size: 24324.5 KB)
+0032.094 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 5800 files added (on-disk size: 24324.5 KB)
+0032.146 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 5900 files added (on-disk size: 24324.5 KB)
+0032.207 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 6000 files added (on-disk size: 24324.5 KB)
+0032.263 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 6100 files added (on-disk size: 24324.5 KB)
+0032.312 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.2 MB, 7210 files batched, 1001 (6172) added so far); re-opening (prior size: 24324.5 KB)
+0034.026 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 6200 files added (on-disk size: 28164.6 KB)
+0034.077 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 6300 files added (on-disk size: 28164.6 KB)
+0034.153 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 6400 files added (on-disk size: 28164.6 KB)
+0034.216 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 6500 files added (on-disk size: 28164.6 KB)
+0034.271 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 6600 files added (on-disk size: 28164.6 KB)
+0034.325 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 6700 files added (on-disk size: 28164.6 KB)
+0034.382 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 6800 files added (on-disk size: 28164.6 KB)
+0034.433 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 6900 files added (on-disk size: 28164.6 KB)
+0034.487 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 7000 files added (on-disk size: 28164.6 KB)
+0034.553 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 7100 files added (on-disk size: 28164.6 KB)
+0034.604 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.9 MB, 7210 files batched, 1001 (7173) added so far); re-opening (prior size: 28164.6 KB)
+0036.898 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.tmp: 7200 files added (on-disk size: 31613 KB)
+0037.572 (0) Creating zip file manifest (backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.list-temp.tmp)
+0037.640 (0) Successfully created zip file manifest (size: 600832)
+0037.996 (0) Created plugins zip (0) - 31825.3 KB in 37.9 s (840 KB/s) (sha1: 92426cb6ffd27dbc3178c33b0e8db2f6b39bf09a, sha256: fcb83d361abe14688e313bd8f20628156c6f465fa0cfff8a23805467b1bccbe4)
+0038.008 (0) Beginning creation of dump of themes (split every: 400 MB)
+0039.051 (0) Total entities for the zip file: 533 directories, 1971 files (0 skipped as non-modified), 59.3 MB
+0039.106 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0039.160 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0039.220 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0039.714 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0039.805 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0039.885 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0039.945 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0040.022 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0040.141 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0040.238 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0040.244 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (34.1 MB, 1971 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0043.130 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 1100 files added (on-disk size: 12501 KB)
+0043.181 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 1200 files added (on-disk size: 12501 KB)
+0043.246 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 1300 files added (on-disk size: 12501 KB)
+0043.343 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 1400 files added (on-disk size: 12501 KB)
+0043.419 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 1500 files added (on-disk size: 12501 KB)
+0043.522 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 1600 files added (on-disk size: 12501 KB)
+0043.610 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 1700 files added (on-disk size: 12501 KB)
+0043.729 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 1800 files added (on-disk size: 12501 KB)
+0043.837 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.tmp: 1900 files added (on-disk size: 12501 KB)
+0046.327 (0) Creating zip file manifest (backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.list-temp.tmp)
+0046.348 (0) Successfully created zip file manifest (size: 146969)
+0046.687 (0) Created themes zip (0) - 25959.5 KB in 8.7 s (2993.8 KB/s) (sha1: c0276cd78b20bc0383849679a74245b1093bc192, sha256: 3885d1905554585fc4ac327b17b2c53bd53ba82d1aeb569617247164caa12c52)
+0046.698 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0046.702 (0) Looking for candidates to backup in: C:\Users\Usuario\Local Sites\holamundo\app\public/wp-content/uploads
+0046.706 (0) finding files: .htaccess: adding to list (1)
+0046.709 (0) finding files: 2022: adding to list (2)
+0046.713 (0) finding files: complianz: adding to list (3)
+0046.716 (0) finding files: elementor: adding to list (4)
+0046.720 (0) finding files: ithemes-security: adding to list (5)
+0046.724 (0) finding files: site-reviews: adding to list (6)
+0046.727 (0) finding files: ultimatemember: adding to list (7)
+0046.730 (0) finding files: visual-portfolio: adding to list (8)
+0046.733 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0046.882 (0) Total entities for the zip file: 19 directories, 283 files (0 skipped as non-modified), 54.1 MB
+0046.942 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0047.014 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0048.070 (0) Creating zip file manifest (backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-uploads.zip.list-temp.tmp)
+0048.078 (0) Successfully created zip file manifest (size: 21248)
+0048.721 (0) Created uploads zip (0) - 53684.9 KB in 2 s (27111.7 KB/s) (sha1: 2aa6ad4884cb584482d80d70c359530968b446af, sha256: 207fadefe8647249710016fa234d2d92cf1da5ed859e92cec872814111fc0eae)
+0048.732 (0) Beginning backup of other directories found in the content directory (index: 0)
+0048.736 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0048.739 (0) Looking for candidates to backup in: C:\Users\Usuario\Local Sites\holamundo\app\public/wp-content
+0048.743 (0) finding files: .htaccess: adding to list (1)
+0048.746 (0) finding files: advanced-cache.php: adding to list (2)
+0048.750 (0) finding files: cache: skipping: excluded by options
+0048.753 (0) finding files: index.php: adding to list (3)
+0048.757 (0) finding files: languages: adding to list (4)
+0048.761 (0) finding files: plugins: skipping: this is the plugins directory
+0048.763 (0) finding files: themes: skipping: this is the themes directory
+0048.766 (0) finding files: updraft: skipping: this is the updraft directory
+0048.770 (0) finding files: upgrade: skipping: excluded by options
+0048.773 (0) finding files: uploads: skipping: this is the uploads directory
+0048.777 (0) finding files: uploads-webpc: adding to list (5)
+0048.781 (0) finding files: wp-cache-config.php: adding to list (6)
+0048.874 (0) Total entities for the zip file: 8 directories, 187 files (0 skipped as non-modified), 11.6 MB
+0048.938 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0049.564 (0) PHP event: code E_WARNING: ZipArchive::close(): Read error: No such file or directory (line 4194, C:\Users\Usuario\Local Sites\holamundo\app\public\wp-content\plugins\updraftplus\backup.php)
+0049.574 (0) The attempt to close the zip file returned an error (Unknown: ZipArchive does not return error messages). List of files we were trying to add follows (check their permissions).
+0049.578 (0) File: .htaccess (exists: 1, is_readable: 1 size: 1907)
+0049.578 (0) File: advanced-cache.php (exists: 1, is_readable: 1 size: 1129)
+0049.579 (0) File: index.php (exists: 1, is_readable: 1 size: 28)
+0049.579 (0) File: languages/admin-es_ES.mo (exists: 1, is_readable: 1 size: 518851)
+0049.580 (0) File: languages/admin-es_ES.po (exists: 1, is_readable: 1 size: 743740)
+0049.580 (0) File: languages/admin-network-es_ES.mo (exists: 1, is_readable: 1 size: 47742)
+0049.580 (0) File: languages/admin-network-es_ES.po (exists: 1, is_readable: 1 size: 64875)
+0049.581 (0) File: languages/continents-cities-es_ES.mo (exists: 1, is_readable: 1 size: 20571)
+0049.581 (0) File: languages/continents-cities-es_ES.po (exists: 1, is_readable: 1 size: 43636)
+0049.581 (0) File: languages/es_ES-0cc31205f20441b3df1d1b46100f6b8d.json (exists: 1, is_readable: 1 size: 1714)
+0049.582 (0) File: languages/es_ES-0ce75ad2f775d1cac9696967d484808c.json (exists: 1, is_readable: 1 size: 429)
+0049.582 (0) File: languages/es_ES-0eebe503220d4a00341eb011b92769b4.json (exists: 1, is_readable: 1 size: 550)
+0049.582 (0) File: languages/es_ES-17179a5f2930647c89151e365f843b6e.json (exists: 1, is_readable: 1 size: 350)
+0049.583 (0) File: languages/es_ES-1780a2033cf98d69ce13c2e5c8510004.json (exists: 1, is_readable: 1 size: 744)
+0049.583 (0) File: languages/es_ES-1a0cd6a7128913b15c1a10dd68951869.json (exists: 1, is_readable: 1 size: 756)
+0049.583 (0) File: languages/es_ES-1bba9045bb07c89671c88a3f328548e8.json (exists: 1, is_readable: 1 size: 759)
+0049.584 (0) File: languages/es_ES-1c4303f02ff93b290e9faad991eeb06f.json (exists: 1, is_readable: 1 size: 380)
+0049.584 (0) File: languages/es_ES-1d17475f620f63a92e2c5d2681c51ee8.json (exists: 1, is_readable: 1 size: 560)
+0049.584 (0) File: languages/es_ES-28b3c3d595952907e08d98287077426c.json (exists: 1, is_readable: 1 size: 672)
+0049.585 (0) File: languages/es_ES-2b390f85a3048c5b4255fb45960b6514.json (exists: 1, is_readable: 1 size: 4841)
+0049.585 (0) File: languages/es_ES-2c5d274ea625dd91556554ad82901529.json (exists: 1, is_readable: 1 size: 312)
+0049.585 (0) File: languages/es_ES-320f4ad9792aaa6dedb1e71cbdf85d57.json (exists: 1, is_readable: 1 size: 309)
+0049.586 (0) File: languages/es_ES-440127dd25bde48a531ded36f33e927b.json (exists: 1, is_readable: 1 size: 4340)
+0049.586 (0) File: languages/es_ES-49c6d4acf36cf3aca9f0b2a77617304f.json (exists: 1, is_readable: 1 size: 804)
+0049.586 (0) File: languages/es_ES-4a38fe1c0c45989e44682ba6109d9f46.json (exists: 1, is_readable: 1 size: 1610)
+0049.587 (0) File: languages/es_ES-4bfa11da57ff2600004bb500368247f4.json (exists: 1, is_readable: 1 size: 549)
+0049.587 (0) File: languages/es_ES-50278328b502f4eb3f2b8b7ab49324a1.json (exists: 1, is_readable: 1 size: 684)
+0049.587 (0) File: languages/es_ES-5251f7623766a714c8207c7edb938628.json (exists: 1, is_readable: 1 size: 578)
+0049.588 (0) File: languages/es_ES-529362903a5a05b34b06b5e793fb4cf8.json (exists: 1, is_readable: 1 size: 892)
+0049.588 (0) File: languages/es_ES-569e85ef168299eb8c8f24d8ef8c8a78.json (exists: 1, is_readable: 1 size: 1549)
+0049.588 (0) File: languages/es_ES-6025add6bde16aaeb12787d250f9b414.json (exists: 1, is_readable: 1 size: 777)
+0049.589 (0) File: languages/es_ES-60d06fac6f98e8e8f0ec5a945738b660.json (exists: 1, is_readable: 1 size: 410)
+0049.589 (0) File: languages/es_ES-68f2cec7514bf8563c723a4d675fcfe6.json (exists: 1, is_readable: 1 size: 1121)
+0049.589 (0) File: languages/es_ES-7233008897033de5ee0d14f86a42a65a.json (exists: 1, is_readable: 1 size: 1397)
+0049.589 (0) File: languages/es_ES-7289286ed59e90a8f36ae797df62220b.json (exists: 1, is_readable: 1 size: 529)
+0049.589 (0) File: languages/es_ES-7436b7ee9e4f11ac0d618d8cc886eb66.json (exists: 1, is_readable: 1 size: 352)
+0049.590 (0) File: languages/es_ES-77fdfadaf2e1ca3a027d1956b910bc50.json (exists: 1, is_readable: 1 size: 1053)
+0049.590 (0) File: languages/es_ES-7b74c8457eaa7fcc50db41b431f8a003.json (exists: 1, is_readable: 1 size: 409)
+0049.590 (0) File: languages/es_ES-7d5ca435e60d92f024d46c9257aaa0f7.json (exists: 1, is_readable: 1 size: 358)
+0049.590 (0) File: languages/es_ES-7f13c36c641b114bf18cd0bcc9ecc7e0.json (exists: 1, is_readable: 1 size: 9450)
+0049.591 (0) File: languages/es_ES-803bf1ce2131e13efc590c1bc47851fc.json (exists: 1, is_readable: 1 size: 24832)
+0049.591 (0) File: languages/es_ES-81c889563f09dd13de1701135dc62941.json (exists: 1, is_readable: 1 size: 1001)
+0049.591 (0) File: languages/es_ES-81d6f084cb273e02e15b01bd9ece87f7.json (exists: 1, is_readable: 1 size: 589)
+0049.591 (0) File: languages/es_ES-8240df461220d1d3a028a9a4c5652a5b.json (exists: 1, is_readable: 1 size: 1028)
+0049.591 (0) File: languages/es_ES-8860e58c20c6a2ab5876a0f07be43bd9.json (exists: 1, is_readable: 1 size: 12977)
+0049.592 (0) File: languages/es_ES-93882e8f9976382d7f724ac595ed7151.json (exists: 1, is_readable: 1 size: 486)
+0049.592 (0) File: languages/es_ES-947c76bb5095da30e16668eec15406b2.json (exists: 1, is_readable: 1 size: 2725)
+0049.592 (0) File: languages/es_ES-9b256ea9cd54df92095e04c76758ceb0.json (exists: 1, is_readable: 1 size: 790)
+0049.592 (0) File: languages/es_ES-9c3519f4870fac83dc0dbf18cb6bd4c4.json (exists: 1, is_readable: 1 size: 494)
+0049.592 (0) File: languages/es_ES-9d47a87c240c1d10701cd6a02b28aa1b.json (exists: 1, is_readable: 1 size: 440)
+0049.593 (0) File: languages/es_ES-a25d1cc7bf7ca0b4e114f6bea64943f4.json (exists: 1, is_readable: 1 size: 350)
+0049.593 (0) File: languages/es_ES-a9dc201dcd011fe71849743133052619.json (exists: 1, is_readable: 1 size: 769)
+0049.593 (0) File: languages/es_ES-aabfce98c410957228848dc581e3c420.json (exists: 1, is_readable: 1 size: 509)
+0049.593 (0) File: languages/es_ES-ac23eee47530ac63a1178c827db28087.json (exists: 1, is_readable: 1 size: 316)
+0049.594 (0) File: languages/es_ES-bf0f094965d3d4a95b47babcb35fc136.json (exists: 1, is_readable: 1 size: 12408)
+0049.594 (0) File: languages/es_ES-bf23b24175490c2e46aaf92ff6a0c70f.json (exists: 1, is_readable: 1 size: 306)
+0049.594 (0) File: languages/es_ES-c31d5f185753910c14afebc6deb2ce24.json (exists: 1, is_readable: 1 size: 15886)
+0049.594 (0) File: languages/es_ES-ca28138671823450e87dfd354f7afc6b.json (exists: 1, is_readable: 1 size: 392)
+0049.594 (0) File: languages/es_ES-daeb084aab42199d26393a56c3465bc0.json (exists: 1, is_readable: 1 size: 888)
+0049.595 (0) File: languages/es_ES-e2791ba830489d23043be8650a22a22b.json (exists: 1, is_readable: 1 size: 421)
+0049.595 (0) File: languages/es_ES-e2e4c4b80f3adf2c70b431bfdb1b4872.json (exists: 1, is_readable: 1 size: 1250)
+0049.595 (0) File: languages/es_ES-e53526243551a102928735ec9eed4edf.json (exists: 1, is_readable: 1 size: 8348)
+0049.595 (0) File: languages/es_ES-f575f481034e90e21d832e415fd95fcf.json (exists: 1, is_readable: 1 size: 439)
+0049.596 (0) File: languages/es_ES-f8f49d9fc4a9cf7d78ec99285417bd9c.json (exists: 1, is_readable: 1 size: 50122)
+0049.596 (0) File: languages/es_ES.mo (exists: 1, is_readable: 1 size: 394780)
+0049.596 (0) File: languages/es_ES.po (exists: 1, is_readable: 1 size: 731481)
+0049.596 (0) File: languages/plugins/elementor-es_ES-1dbb8b6c1e3d0a728637a838a81040c6.json (exists: 1, is_readable: 1 size: 314)
+0049.596 (0) File: languages/plugins/elementor-es_ES-21b2026463ef175722764b7eaf9022f0.json (exists: 1, is_readable: 1 size: 639)
+0049.597 (0) File: languages/plugins/elementor-es_ES-4a9aafdf461c74b88a1c7041526ae1d6.json (exists: 1, is_readable: 1 size: 1491)
+0049.597 (0) File: languages/plugins/elementor-es_ES-50f7bdee322f202b88cb992c0ace0ac3.json (exists: 1, is_readable: 1 size: 9787)
+0049.597 (0) File: languages/plugins/elementor-es_ES-83dfaf7142278d2a3702c11788fd8440.json (exists: 1, is_readable: 1 size: 5014)
+0049.597 (0) File: languages/plugins/elementor-es_ES-8a6f9f86926bf9a25e5a435339447644.json (exists: 1, is_readable: 1 size: 6275)
+0049.598 (0) File: languages/plugins/elementor-es_ES-8b6e2710018c32facf5c92283650c03a.json (exists: 1, is_readable: 1 size: 1606)
+0049.598 (0) File: languages/plugins/elementor-es_ES-8b95a20e21550730e7b5557f56908c73.json (exists: 1, is_readable: 1 size: 13604)
+0049.598 (0) File: languages/plugins/elementor-es_ES-9de15ead6aa7b3bb8a1ea30a49991974.json (exists: 1, is_readable: 1 size: 661)
+0049.598 (0) File: languages/plugins/elementor-es_ES-abe7facb531349e3b9bd791c4c0f183e.json (exists: 1, is_readable: 1 size: 371)
+0049.598 (0) File: languages/plugins/elementor-es_ES-ac76f1d75eb777f747e6708b19d31b78.json (exists: 1, is_readable: 1 size: 14242)
+0049.599 (0) File: languages/plugins/elementor-es_ES-dde11340ced68bea09c9fd29c9ed4534.json (exists: 1, is_readable: 1 size: 351)
+0049.599 (0) File: languages/plugins/elementor-es_ES-e16f2427ce816c4dc38ad0b36edc3ef2.json (exists: 1, is_readable: 1 size: 393)
+0049.599 (0) File: languages/plugins/elementor-es_ES-e9bd92fcd3a153fa19faf0be5f3e21b4.json (exists: 1, is_readable: 1 size: 534)
+0049.599 (0) File: languages/plugins/elementor-es_ES-f98be19bec7bc848ce3ed383c60037c1.json (exists: 1, is_readable: 1 size: 2501)
+0049.600 (0) File: languages/plugins/elementor-es_ES.mo (exists: 1, is_readable: 1 size: 112624)
+0049.600 (0) File: languages/plugins/elementor-es_ES.po (exists: 1, is_readable: 1 size: 228647)
+0049.600 (0) File: languages/plugins/header-footer-elementor-es_ES.mo (exists: 1, is_readable: 1 size: 28189)
+0049.600 (0) File: languages/plugins/header-footer-elementor-es_ES.po (exists: 1, is_readable: 1 size: 62632)
+0049.600 (0) File: languages/plugins/visual-portfolio-es_ES.mo (exists: 1, is_readable: 1 size: 31604)
+0049.601 (0) File: languages/plugins/visual-portfolio-es_ES.po (exists: 1, is_readable: 1 size: 49961)
+0049.601 (0) File: languages/plugins/wordpress-seo-es_ES-06ac8eb626d13e53d0f09739a2ab6a7e.json (exists: 1, is_readable: 1 size: 2295)
+0049.601 (0) File: languages/plugins/wordpress-seo-es_ES-1765c84b9a2e3034c5ab0a9b0842cb21.json (exists: 1, is_readable: 1 size: 1258)
+0049.601 (0) File: languages/plugins/wordpress-seo-es_ES-58afcf2303c7e92a99f4dfdf75c54842.json (exists: 1, is_readable: 1 size: 592)
+0049.602 (0) File: languages/plugins/wordpress-seo-es_ES-59a157b73a79db8a63459f9a2e1b874b.json (exists: 1, is_readable: 1 size: 6836)
+0049.602 (0) File: languages/plugins/wordpress-seo-es_ES-606033e8cb263b032d13356d7a627ed5.json (exists: 1, is_readable: 1 size: 30473)
+0049.602 (0) File: languages/plugins/wordpress-seo-es_ES-6ade687c7936490c88bc39df19ea71a0.json (exists: 1, is_readable: 1 size: 1903)
+0049.603 (0) File: languages/plugins/wordpress-seo-es_ES-6f380ab0bcb032c00d3d0ff21664335d.json (exists: 1, is_readable: 1 size: 13535)
+0049.603 (0) File: languages/plugins/wordpress-seo-es_ES-6ffccefef7026e678d85c6b56bd29680.json (exists: 1, is_readable: 1 size: 1451)
+0049.603 (0) File: languages/plugins/wordpress-seo-es_ES-753e370a61af6ba5ccabe91cc950cbcb.json (exists: 1, is_readable: 1 size: 1486)
+0049.604 (0) File: languages/plugins/wordpress-seo-es_ES-786eeb1e9fb710b6d8885049b18564b3.json (exists: 1, is_readable: 1 size: 21792)
+0049.604 (0) File: languages/plugins/wordpress-seo-es_ES-81d02401639ac0f30dc9d7738fcbf629.json (exists: 1, is_readable: 1 size: 18335)
+0049.604 (0) File: languages/plugins/wordpress-seo-es_ES-826f41c23138627439d01b2b0133dbc5.json (exists: 1, is_readable: 1 size: 1292)
+0049.605 (0) File: languages/plugins/wordpress-seo-es_ES-8405120aa063042063ec86fbf4eb6df5.json (exists: 1, is_readable: 1 size: 2352)
+0049.605 (0) File: languages/plugins/wordpress-seo-es_ES-8c2f72a2c46baea606be9a7b0c1a23d8.json (exists: 1, is_readable: 1 size: 612)
+0049.605 (0) File: languages/plugins/wordpress-seo-es_ES-8d6ddb629914013ba22594dab46408c3.json (exists: 1, is_readable: 1 size: 415)
+0049.606 (0) File: languages/plugins/wordpress-seo-es_ES-9fc912fe9f73e39d5df0779b31bb1a6f.json (exists: 1, is_readable: 1 size: 744)
+0049.606 (0) File: languages/plugins/wordpress-seo-es_ES-9ff580649b466f65633b98bb16c34525.json (exists: 1, is_readable: 1 size: 709)
+0049.606 (0) File: languages/plugins/wordpress-seo-es_ES-a35a702af4a7fbb6d2d4db8c193dd940.json (exists: 1, is_readable: 1 size: 932)
+0049.606 (0) File: languages/plugins/wordpress-seo-es_ES-a4e25a0fbd268367ae0af1e06b841f78.json (exists: 1, is_readable: 1 size: 19829)
+0049.606 (0) File: languages/plugins/wordpress-seo-es_ES-afe43fe171170bbc6083c10610a75434.json (exists: 1, is_readable: 1 size: 647)
+0049.607 (0) File: languages/plugins/wordpress-seo-es_ES-b1439a828d6d7684a875580ccba87936.json (exists: 1, is_readable: 1 size: 1101)
+0049.607 (0) File: languages/plugins/wordpress-seo-es_ES-b2bb3542a05d1a95a5866b83cc7b8a5f.json (exists: 1, is_readable: 1 size: 676)
+0049.607 (0) File: languages/plugins/wordpress-seo-es_ES-b7ad74768b6540fffc24bcde63413725.json (exists: 1, is_readable: 1 size: 413)
+0049.607 (0) File: languages/plugins/wordpress-seo-es_ES-c1a0e4b150b113a514f162d42c0c8ab5.json (exists: 1, is_readable: 1 size: 2335)
+0049.608 (0) File: languages/plugins/wordpress-seo-es_ES-c1b15194a6181a17d3344302011bddf5.json (exists: 1, is_readable: 1 size: 1296)
+0049.608 (0) File: languages/plugins/wordpress-seo-es_ES-cab448a7f08880f4d86d9bdf409b7cb7.json (exists: 1, is_readable: 1 size: 3018)
+0049.608 (0) File: languages/plugins/wordpress-seo-es_ES-d084ad2ca2d23f1331bbd1040999834e.json (exists: 1, is_readable: 1 size: 6819)
+0049.608 (0) File: languages/plugins/wordpress-seo-es_ES-d6bf43f32d0c3331e709fa67e6be35a2.json (exists: 1, is_readable: 1 size: 5534)
+0049.608 (0) File: languages/plugins/wordpress-seo-es_ES-e422758335e56c41009e56217163c93a.json (exists: 1, is_readable: 1 size: 401)
+0049.609 (0) File: languages/plugins/wordpress-seo-es_ES-fb9a41ab0ae57dcb4b10ea3343658bcc.json (exists: 1, is_readable: 1 size: 1372)
+0049.609 (0) File: languages/plugins/wordpress-seo-es_ES.mo (exists: 1, is_readable: 1 size: 132986)
+0049.609 (0) File: languages/plugins/wordpress-seo-es_ES.po (exists: 1, is_readable: 1 size: 214902)
+0049.609 (0) File: languages/themes/astra-es_ES-913ac7cdf5efc1991d54fbcb5cf6cdca.json (exists: 1, is_readable: 1 size: 1235)
+0049.609 (0) File: languages/themes/astra-es_ES-d3421ffd51d7376ba3e2dccb4be92002.json (exists: 1, is_readable: 1 size: 2185)
+0049.610 (0) File: languages/themes/astra-es_ES-e726701e0f035ac2d1c13843bc70fde1.json (exists: 1, is_readable: 1 size: 2205)
+0049.610 (0) File: languages/themes/astra-es_ES.mo (exists: 1, is_readable: 1 size: 52372)
+0049.610 (0) File: languages/themes/astra-es_ES.po (exists: 1, is_readable: 1 size: 207383)
+0049.610 (0) File: languages/themes/bravada-es_ES.mo (exists: 1, is_readable: 1 size: 44914)
+0049.611 (0) File: languages/themes/bravada-es_ES.po (exists: 1, is_readable: 1 size: 65285)
+0049.611 (0) File: languages/themes/hello-elementor-es_ES.mo (exists: 1, is_readable: 1 size: 7754)
+0049.611 (0) File: languages/themes/hello-elementor-es_ES.po (exists: 1, is_readable: 1 size: 14718)
+0049.611 (0) File: languages/themes/oceanwp-es_ES-affc99f69e8ece321ee9a4c53d759a00.json (exists: 1, is_readable: 1 size: 517)
+0049.611 (0) File: languages/themes/oceanwp-es_ES-f47a115f44a1dc9e9a1e8a92d0c39a0a.json (exists: 1, is_readable: 1 size: 346)
+0049.612 (0) File: languages/themes/oceanwp-es_ES.mo (exists: 1, is_readable: 1 size: 134182)
+0049.612 (0) File: languages/themes/oceanwp-es_ES.po (exists: 1, is_readable: 1 size: 246666)
+0049.612 (0) File: languages/themes/twentytwenty-es_ES.mo (exists: 1, is_readable: 1 size: 15425)
+0049.612 (0) File: languages/themes/twentytwenty-es_ES.po (exists: 1, is_readable: 1 size: 21584)
+0049.613 (0) File: languages/themes/twentytwentyone-es_ES.mo (exists: 1, is_readable: 1 size: 16147)
+0049.613 (0) File: languages/themes/twentytwentyone-es_ES.po (exists: 1, is_readable: 1 size: 23049)
+0049.613 (0) File: languages/themes/twentytwentytwo-es_ES.mo (exists: 1, is_readable: 1 size: 23544)
+0049.613 (0) File: languages/themes/twentytwentytwo-es_ES.po (exists: 1, is_readable: 1 size: 34197)
+0049.613 (0) File: uploads-webpc/.htaccess (exists: 1, is_readable: 1 size: 378)
+0049.614 (0) File: uploads-webpc/uploads/2022/07/cropped-Infancia-150x150.jpg.webp (exists: 1, is_readable: 1 size: 5624)
+0049.614 (0) File: uploads-webpc/uploads/2022/07/cropped-Infancia-180x180.jpg.webp (exists: 1, is_readable: 1 size: 7946)
+0049.614 (0) File: uploads-webpc/uploads/2022/07/cropped-Infancia-192x192.jpg.webp (exists: 1, is_readable: 1 size: 8550)
+0049.614 (0) File: uploads-webpc/uploads/2022/07/cropped-Infancia-270x270.jpg.webp (exists: 1, is_readable: 1 size: 16408)
+0049.614 (0) File: uploads-webpc/uploads/2022/07/cropped-Infancia-300x300.jpg.webp (exists: 1, is_readable: 1 size: 19772)
+0049.615 (0) File: uploads-webpc/uploads/2022/07/cropped-Infancia-32x32.jpg.webp (exists: 1, is_readable: 1 size: 404)
+0049.615 (0) File: uploads-webpc/uploads/2022/07/cropped-Infancia-500x500.jpg.webp (exists: 1, is_readable: 1 size: 45308)
+0049.615 (0) File: uploads-webpc/uploads/2022/07/cropped-Infancia.jpg.webp (exists: 1, is_readable: 1 size: 54820)
+0049.615 (0) File: uploads-webpc/uploads/2022/07/HollowKnight-150x150.jpg.webp (exists: 1, is_readable: 1 size: 5872)
+0049.616 (0) File: uploads-webpc/uploads/2022/07/HollowKnight.jpg.webp.deleted (exists: 1, is_readable: 1 size: 0)
+0049.616 (0) File: uploads-webpc/uploads/2022/08/CurriculumAcademico-1024x576.jpg.webp (exists: 1, is_readable: 1 size: 49364)
+0049.616 (0) File: uploads-webpc/uploads/2022/08/CurriculumAcademico-150x150.jpg.webp (exists: 1, is_readable: 1 size: 4714)
+0049.616 (0) File: uploads-webpc/uploads/2022/08/CurriculumAcademico-300x169.jpg.webp (exists: 1, is_readable: 1 size: 8918)
+0049.616 (0) File: uploads-webpc/uploads/2022/08/CurriculumAcademico-500x281.jpg.webp (exists: 1, is_readable: 1 size: 18708)
+0049.617 (0) File: uploads-webpc/uploads/2022/08/CurriculumAcademico-768x432.jpg.webp (exists: 1, is_readable: 1 size: 33116)
+0049.617 (0) File: uploads-webpc/uploads/2022/08/CurriculumAcademico-800x450.jpg.webp (exists: 1, is_readable: 1 size: 35010)
+0049.617 (0) File: uploads-webpc/uploads/2022/08/CurriculumAcademico.jpg.webp (exists: 1, is_readable: 1 size: 66700)
+0049.617 (0) File: uploads-webpc/uploads/2022/08/ExpLaboral-1024x693.png.webp (exists: 1, is_readable: 1 size: 134014)
+0049.618 (0) File: uploads-webpc/uploads/2022/08/ExpLaboral-1280x867.png.webp (exists: 1, is_readable: 1 size: 203358)
+0049.618 (0) File: uploads-webpc/uploads/2022/08/ExpLaboral-150x150.png.webp (exists: 1, is_readable: 1 size: 5578)
+0049.618 (0) File: uploads-webpc/uploads/2022/08/ExpLaboral-300x203.png.webp (exists: 1, is_readable: 1 size: 15056)
+0049.618 (0) File: uploads-webpc/uploads/2022/08/ExpLaboral-500x339.png.webp (exists: 1, is_readable: 1 size: 35916)
+0049.619 (0) File: uploads-webpc/uploads/2022/08/ExpLaboral-768x520.png.webp (exists: 1, is_readable: 1 size: 76354)
+0049.619 (0) File: uploads-webpc/uploads/2022/08/ExpLaboral-800x542.png.webp (exists: 1, is_readable: 1 size: 84608)
+0049.619 (0) File: uploads-webpc/uploads/2022/08/ExpLaboral.png.webp (exists: 1, is_readable: 1 size: 367524)
+0049.619 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-1-1024x683.jpg.webp (exists: 1, is_readable: 1 size: 193950)
+0049.620 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-1-1280x853.jpg.webp (exists: 1, is_readable: 1 size: 280948)
+0049.620 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-1-150x150.jpg.webp (exists: 1, is_readable: 1 size: 8748)
+0049.620 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-1-1536x1024.jpg.webp (exists: 1, is_readable: 1 size: 376498)
+0049.620 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-1-1920x1280.jpg.webp (exists: 1, is_readable: 1 size: 530490)
+0049.621 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-1-2048x1365.jpg.webp (exists: 1, is_readable: 1 size: 580662)
+0049.621 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-1-300x200.jpg.webp (exists: 1, is_readable: 1 size: 21730)
+0049.621 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-1-500x333.jpg.webp (exists: 1, is_readable: 1 size: 55256)
+0049.621 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-1-768x512.jpg.webp (exists: 1, is_readable: 1 size: 119696)
+0049.622 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-1-800x533.jpg.webp (exists: 1, is_readable: 1 size: 128380)
+0049.622 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-1-scaled.jpg.webp (exists: 1, is_readable: 1 size: 772418)
+0049.622 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-1024x683.jpg.webp (exists: 1, is_readable: 1 size: 193950)
+0049.622 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-1280x853.jpg.webp (exists: 1, is_readable: 1 size: 280948)
+0049.623 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-150x150.jpg.webp (exists: 1, is_readable: 1 size: 8748)
+0049.623 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-1536x1024.jpg.webp (exists: 1, is_readable: 1 size: 376498)
+0049.623 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-1920x1280.jpg.webp (exists: 1, is_readable: 1 size: 530490)
+0049.623 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-2048x1365.jpg.webp (exists: 1, is_readable: 1 size: 580662)
+0049.624 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-300x200.jpg.webp (exists: 1, is_readable: 1 size: 21730)
+0049.624 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-500x333.jpg.webp (exists: 1, is_readable: 1 size: 55256)
+0049.624 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-768x512.jpg.webp (exists: 1, is_readable: 1 size: 119696)
+0049.624 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-800x533.jpg.webp (exists: 1, is_readable: 1 size: 128380)
+0049.625 (0) File: uploads-webpc/uploads/2022/08/happy-children-playing-together-outdoors-dancing-around-on-grass-enjoying-outdoor-activities-and-having-fun-in-park-kids-party-or-friendship-concept-scaled.jpg.webp (exists: 1, is_readable: 1 size: 772418)
+0049.625 (0) File: wp-cache-config.php (exists: 1, is_readable: 1 size: 3581)
+0049.625 (0) Did not find any files in the zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-others.zip.tmp
+0049.628 (0) Error: makezip_addfiles returned false
+0049.632 (0) makezip_addfiles(UpdraftPlus_ZipArchive) apparently failed (file=backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-others.zip.tmp, type=others, size=0) - retrying with PclZip
+0049.635 (0) Zip file already exists, but is not readable or was zero-sized; will remove: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-others.zip.tmp
+0049.711 (0) Total entities for the zip file: 8 directories, 187 files (0 skipped as non-modified), 11.6 MB
+0049.714 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 11889 KB, split: 409600 KB)
+0049.822 (0) Zip: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0050.741 (0) Creating zip file manifest (backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-others.zip.list-temp.tmp)
+0050.748 (0) Successfully created zip file manifest (size: 15896)
+0050.871 (0) Created others zip (0) - 8582.8 KB in 2.1 s (4120.1 KB/s) (sha1: ef94134dae4846e83d7e5ec44ce69348faa56240, sha256: 31870041c97ff3efdb9d85c577f6b3613615c1f5a060614a5e2d15f6ff0576de)
+0050.890 (0) Saving backup status to database (elements: 8)
+0050.899 (0) Beginning creation of database dump (WordPress DB)
+0050.902 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0050.954 (0) Table wp_options: Total expected rows (via COUNT): 390
+0050.957 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0051.059 (0) Table wp_options: Rows added in this batch (next record: 4419): 386 (uncompressed bytes in this segment=2076123) in 0.13 seconds
+0051.080 (0) Table wp_options: finishing file(s) (2, 364.7 KB)
+0051.096 (0) Table wp_users: Total expected rows (via COUNT): 1
+0051.100 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0051.109 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1428) in 0.02 seconds
+0051.127 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0051.144 (0) Table wp_usermeta: Total expected rows (via COUNT): 49
+0051.148 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0051.161 (0) Table wp_usermeta: Rows added in this batch (next record: 49): 49 (uncompressed bytes in this segment=9228) in 0.02 seconds
+0051.183 (0) Table wp_usermeta: finishing file(s) (2, 3.3 KB)
+0051.208 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0051.217 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.02 seconds
+0051.237 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0051.252 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0051.255 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0051.265 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2152) in 0.02 seconds
+0051.281 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0051.293 (0) Table wp_itsec_bans: Total expected rows (via COUNT): 0
+0051.301 (0) Table wp_itsec_bans: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=876) in 0.01 seconds
+0051.317 (0) Table wp_itsec_bans: finishing file(s) (2, 0.4 KB)
+0051.331 (0) Table wp_itsec_dashboard_events: Total expected rows (via COUNT): 0
+0051.337 (0) Table wp_itsec_dashboard_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=816) in 0.01 seconds
+0051.354 (0) Table wp_itsec_dashboard_events: finishing file(s) (2, 0.4 KB)
+0051.375 (0) Table wp_itsec_distributed_storage: Total expected rows (via COUNT): 0
+0051.379 (0) Table wp_itsec_distributed_storage: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=915) in 0.02 seconds
+0051.398 (0) Table wp_itsec_distributed_storage: finishing file(s) (2, 0.4 KB)
+0051.420 (0) Table wp_itsec_fingerprints: Total expected rows (via COUNT): 0
+0051.425 (0) Table wp_itsec_fingerprints: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1223) in 0.02 seconds
+0051.445 (0) Table wp_itsec_fingerprints: finishing file(s) (2, 0.5 KB)
+0051.461 (0) Table wp_itsec_geolocation_cache: Total expected rows (via COUNT): 0
+0051.466 (0) Table wp_itsec_geolocation_cache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=937) in 0.01 seconds
+0051.482 (0) Table wp_itsec_geolocation_cache: finishing file(s) (2, 0.4 KB)
+0051.495 (0) Table wp_itsec_lockouts: Total expected rows (via COUNT): 0
+0051.501 (0) Table wp_itsec_lockouts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1209) in 0.01 seconds
+0051.517 (0) Table wp_itsec_lockouts: finishing file(s) (2, 0.5 KB)
+0051.535 (0) Table wp_itsec_logs: Total expected rows (via COUNT): 9
+0051.539 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0051.551 (0) Table wp_itsec_logs: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=3776) in 0.02 seconds
+0051.574 (0) Table wp_itsec_logs: finishing file(s) (2, 1 KB)
+0051.589 (0) Table wp_itsec_mutexes: Total expected rows (via COUNT): 0
+0051.598 (0) Table wp_itsec_mutexes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=617) in 0.01 seconds
+0051.613 (0) Table wp_itsec_mutexes: finishing file(s) (2, 0.4 KB)
+0051.626 (0) Table wp_itsec_opaque_tokens: Total expected rows (approximate): 0
+0051.631 (0) Table wp_itsec_opaque_tokens: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=767) in 0.01 seconds
+0051.648 (0) Table wp_itsec_opaque_tokens: finishing file(s) (2, 0.4 KB)
+0051.662 (0) Table wp_itsec_temp: Total expected rows (via COUNT): 0
+0051.668 (0) Table wp_itsec_temp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=903) in 0.01 seconds
+0051.683 (0) Table wp_itsec_temp: finishing file(s) (2, 0.4 KB)
+0051.698 (0) Table wp_itsec_user_groups: Total expected rows (approximate): 0
+0051.704 (0) Table wp_itsec_user_groups: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=838) in 0.01 seconds
+0051.720 (0) Table wp_itsec_user_groups: finishing file(s) (2, 0.4 KB)
+0051.737 (0) Table wp_links: Total expected rows (via COUNT): 0
+0051.743 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.01 seconds
+0051.760 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0051.829 (0) Table wp_postmeta: Total expected rows (approximate): 2258
+0052.178 (0) Table wp_postmeta: Rows added in this batch (next record: 3578): 2647 (uncompressed bytes in this segment=3387741) in 0.41 seconds
+0052.199 (0) Table wp_postmeta: finishing file(s) (2, 2033.8 KB)
+0052.228 (0) Table wp_posts: Total expected rows (via COUNT): 394
+0052.231 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.337 (0) Table wp_posts: Rows added in this batch (next record: 547): 394 (uncompressed bytes in this segment=384436) in 0.13 seconds
+0052.357 (0) Table wp_posts: finishing file(s) (2, 37.3 KB)
+0052.368 (0) Table wp_term_relationships: Total expected rows (approximate): 29
+0052.377 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 28 (uncompressed bytes in this segment=1099) in 0.01 seconds
+0052.394 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0052.412 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 19
+0052.416 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.426 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 39): 19 (uncompressed bytes in this segment=1670) in 0.02 seconds
+0052.446 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0052.465 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0052.473 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.02 seconds
+0052.493 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0052.506 (0) Table wp_terms: Total expected rows (via COUNT): 19
+0052.509 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.517 (0) Table wp_terms: Rows added in this batch (next record: 39): 19 (uncompressed bytes in this segment=1388) in 0.02 seconds
+0052.533 (0) Table wp_terms: finishing file(s) (2, 0.7 KB)
+0052.556 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 1
+0052.559 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.563 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 191): 1 (uncompressed bytes in this segment=1915) in 0.02 seconds
+0052.581 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 0.7 KB)
+0052.596 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0052.605 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.01 seconds
+0052.622 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0052.638 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 1
+0052.642 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.650 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=689) in 0.02 seconds
+0052.668 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0052.684 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 3
+0052.688 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.694 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1084) in 0.02 seconds
+0052.711 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.5 KB)
+0052.729 (0) Table wp_cmplz_cookiebanners: Total expected rows (via COUNT): 1
+0052.733 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.739 (0) Table wp_cmplz_cookiebanners: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=7726) in 0.02 seconds
+0052.756 (0) Table wp_cmplz_cookiebanners: finishing file(s) (2, 1.9 KB)
+0052.771 (0) Table wp_cmplz_cookies: Total expected rows (via COUNT): 9
+0052.774 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.780 (0) Table wp_cmplz_cookies: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=2476) in 0.01 seconds
+0052.799 (0) Table wp_cmplz_cookies: finishing file(s) (2, 0.7 KB)
+0052.817 (0) Table wp_cmplz_services: Total expected rows (via COUNT): 0
+0052.824 (0) Table wp_cmplz_services: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1037) in 0.01 seconds
+0052.841 (0) Table wp_cmplz_services: finishing file(s) (2, 0.4 KB)
+0052.857 (0) Table wp_e_events: Total expected rows (via COUNT): 9
+0052.861 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.870 (0) Table wp_e_events: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=2788) in 0.02 seconds
+0052.886 (0) Table wp_e_events: finishing file(s) (2, 0.8 KB)
+0052.901 (0) Table wp_glsr_assigned_posts: Total expected rows (approximate): 0
+0052.910 (0) Table wp_glsr_assigned_posts: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=672) in 0.01 seconds
+0052.926 (0) Table wp_glsr_assigned_posts: finishing file(s) (2, 0.4 KB)
+0052.941 (0) Table wp_glsr_assigned_terms: Total expected rows (approximate): 0
+0052.947 (0) Table wp_glsr_assigned_terms: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=622) in 0.01 seconds
+0052.964 (0) Table wp_glsr_assigned_terms: finishing file(s) (2, 0.3 KB)
+0052.979 (0) Table wp_glsr_assigned_users: Total expected rows (approximate): 0
+0052.984 (0) Table wp_glsr_assigned_users: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=622) in 0.01 seconds
+0053.002 (0) Table wp_glsr_assigned_users: finishing file(s) (2, 0.3 KB)
+0053.020 (0) Table wp_glsr_ratings: Total expected rows (via COUNT): 2
+0053.025 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0053.034 (0) Table wp_glsr_ratings: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1494) in 0.02 seconds
+0053.052 (0) Table wp_glsr_ratings: finishing file(s) (2, 0.6 KB)
+0053.073 (0) Table wp_um_metadata: Total expected rows (via COUNT): 0
+0053.080 (0) Table wp_um_metadata: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=720) in 0.02 seconds
+0053.099 (0) Table wp_um_metadata: finishing file(s) (2, 0.4 KB)
+0053.120 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 26
+0053.123 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0053.148 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 26): 26 (uncompressed bytes in this segment=15717) in 0.04 seconds
+0053.167 (0) Table wp_yoast_indexable: finishing file(s) (2, 3 KB)
+0053.178 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 15
+0053.187 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 18 (uncompressed bytes in this segment=1081) in 0.01 seconds
+0053.202 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.4 KB)
+0053.217 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 23
+0053.219 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0053.227 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=1240) in 0.02 seconds
+0053.243 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0053.259 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 5
+0053.262 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0053.267 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=1298) in 0.01 seconds
+0053.284 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.6 KB)
+0053.299 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 9
+0053.303 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0053.308 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 15): 9 (uncompressed bytes in this segment=2405) in 0.01 seconds
+0053.324 (0) Table wp_yoast_seo_links: finishing file(s) (2, 0.9 KB)
+0053.332 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_options.table.tmpr4420.gz (1/41/fopen): adding to final database dump
+0053.354 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_options.table.gz (2/41/fopen): adding to final database dump
+0053.359 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_users.table.tmpr2.gz (3/41/fopen): adding to final database dump
+0053.363 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_users.table.gz (4/41/fopen): adding to final database dump
+0053.367 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_usermeta.table.tmpr50.gz (5/41/fopen): adding to final database dump
+0053.371 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_usermeta.table.gz (6/41/fopen): adding to final database dump
+0053.375 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_commentmeta.table.tmpr0.gz (7/41/fopen): adding to final database dump
+0053.381 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_commentmeta.table.gz (8/41/fopen): adding to final database dump
+0053.385 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_comments.table.tmpr2.gz (9/41/fopen): adding to final database dump
+0053.390 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_comments.table.gz (10/41/fopen): adding to final database dump
+0053.396 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_bans.table.tmpr0.gz (11/41/fopen): adding to final database dump
+0053.403 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_bans.table.gz (12/41/fopen): adding to final database dump
+0053.409 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_dashboard_events.table.tmpr0.gz (13/41/fopen): adding to final database dump
+0053.415 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_dashboard_events.table.gz (14/41/fopen): adding to final database dump
+0053.421 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_distributed_storage.table.tmpr0.gz (15/41/fopen): adding to final database dump
+0053.428 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_distributed_storage.table.gz (16/41/fopen): adding to final database dump
+0053.433 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_fingerprints.table.tmpr0.gz (17/41/fopen): adding to final database dump
+0053.439 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_fingerprints.table.gz (18/41/fopen): adding to final database dump
+0053.445 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_geolocation_cache.table.tmpr0.gz (19/41/fopen): adding to final database dump
+0053.452 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_geolocation_cache.table.gz (20/41/fopen): adding to final database dump
+0053.459 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_lockouts.table.tmpr0.gz (21/41/fopen): adding to final database dump
+0053.467 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_lockouts.table.gz (22/41/fopen): adding to final database dump
+0053.474 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_logs.table.tmpr10.gz (23/41/fopen): adding to final database dump
+0053.482 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_logs.table.gz (24/41/fopen): adding to final database dump
+0053.488 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_mutexes.table.tmpr0.gz (25/41/fopen): adding to final database dump
+0053.495 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_mutexes.table.gz (26/41/fopen): adding to final database dump
+0053.501 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_opaque_tokens.table.tmpr1.gz (27/41/fopen): adding to final database dump
+0053.510 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_opaque_tokens.table.gz (28/41/fopen): adding to final database dump
+0053.517 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_temp.table.tmpr0.gz (29/41/fopen): adding to final database dump
+0053.524 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_temp.table.gz (30/41/fopen): adding to final database dump
+0053.531 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_user_groups.table.tmpr1.gz (31/41/fopen): adding to final database dump
+0053.538 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_itsec_user_groups.table.gz (32/41/fopen): adding to final database dump
+0053.544 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_links.table.tmpr0.gz (33/41/fopen): adding to final database dump
+0053.551 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_links.table.gz (34/41/fopen): adding to final database dump
+0053.559 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_postmeta.table.tmpr3579.gz (35/41/fopen): adding to final database dump
+0053.773 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_postmeta.table.gz (36/41/fopen): adding to final database dump
+0053.777 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_posts.table.tmpr548.gz (37/41/fopen): adding to final database dump
+0053.784 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_posts.table.gz (38/41/fopen): adding to final database dump
+0053.787 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_term_relationships.table.tmpr100001.gz (39/41/fopen): adding to final database dump
+0053.791 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_term_relationships.table.gz (40/41/fopen): adding to final database dump
+0053.795 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_term_taxonomy.table.tmpr40.gz (41/41/fopen): adding to final database dump
+0053.798 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_term_taxonomy.table.gz (42/41/fopen): adding to final database dump
+0053.802 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_termmeta.table.tmpr0.gz (43/41/fopen): adding to final database dump
+0053.805 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_termmeta.table.gz (44/41/fopen): adding to final database dump
+0053.809 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_terms.table.tmpr40.gz (45/41/fopen): adding to final database dump
+0053.813 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_terms.table.gz (46/41/fopen): adding to final database dump
+0053.817 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_actionscheduler_actions.table.tmpr192.gz (47/41/fopen): adding to final database dump
+0053.821 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_actionscheduler_actions.table.gz (48/41/fopen): adding to final database dump
+0053.823 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_actionscheduler_claims.table.tmpr0.gz (49/41/fopen): adding to final database dump
+0053.828 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_actionscheduler_claims.table.gz (50/41/fopen): adding to final database dump
+0053.831 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_actionscheduler_groups.table.tmpr2.gz (51/41/fopen): adding to final database dump
+0053.835 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_actionscheduler_groups.table.gz (52/41/fopen): adding to final database dump
+0053.838 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_actionscheduler_logs.table.tmpr4.gz (53/41/fopen): adding to final database dump
+0053.843 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_actionscheduler_logs.table.gz (54/41/fopen): adding to final database dump
+0053.847 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_cmplz_cookiebanners.table.tmpr2.gz (55/41/fopen): adding to final database dump
+0053.850 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_cmplz_cookiebanners.table.gz (56/41/fopen): adding to final database dump
+0053.853 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_cmplz_cookies.table.tmpr10.gz (57/41/fopen): adding to final database dump
+0053.856 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_cmplz_cookies.table.gz (58/41/fopen): adding to final database dump
+0053.860 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_cmplz_services.table.tmpr0.gz (59/41/fopen): adding to final database dump
+0053.865 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_cmplz_services.table.gz (60/41/fopen): adding to final database dump
+0053.868 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_e_events.table.tmpr10.gz (61/41/fopen): adding to final database dump
+0053.871 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_e_events.table.gz (62/41/fopen): adding to final database dump
+0053.874 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_glsr_assigned_posts.table.tmpr1.gz (63/41/fopen): adding to final database dump
+0053.879 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_glsr_assigned_posts.table.gz (64/41/fopen): adding to final database dump
+0053.883 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_glsr_assigned_terms.table.tmpr1.gz (65/41/fopen): adding to final database dump
+0053.886 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_glsr_assigned_terms.table.gz (66/41/fopen): adding to final database dump
+0053.890 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_glsr_assigned_users.table.tmpr1.gz (67/41/fopen): adding to final database dump
+0053.895 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_glsr_assigned_users.table.gz (68/41/fopen): adding to final database dump
+0053.898 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_glsr_ratings.table.tmpr3.gz (69/41/fopen): adding to final database dump
+0053.903 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_glsr_ratings.table.gz (70/41/fopen): adding to final database dump
+0053.907 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_um_metadata.table.tmpr0.gz (71/41/fopen): adding to final database dump
+0053.912 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_um_metadata.table.gz (72/41/fopen): adding to final database dump
+0053.915 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_yoast_indexable.table.tmpr27.gz (73/41/fopen): adding to final database dump
+0053.918 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_yoast_indexable.table.gz (74/41/fopen): adding to final database dump
+0053.921 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (75/41/fopen): adding to final database dump
+0053.925 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_yoast_indexable_hierarchy.table.gz (76/41/fopen): adding to final database dump
+0053.929 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_yoast_migrations.table.tmpr24.gz (77/41/fopen): adding to final database dump
+0053.933 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_yoast_migrations.table.gz (78/41/fopen): adding to final database dump
+0053.937 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_yoast_primary_term.table.tmpr6.gz (79/41/fopen): adding to final database dump
+0053.942 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_yoast_primary_term.table.gz (80/41/fopen): adding to final database dump
+0053.946 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_yoast_seo_links.table.tmpr16.gz (81/41/fopen): adding to final database dump
+0053.949 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db-table-wp_yoast_seo_links.table.gz (82/41/fopen): adding to final database dump
+0053.974 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db.gz: finished writing out complete database file (2461.7 KB)
+0054.042 (0) Total database tables backed up: 41 (backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db.gz, size: 2520866, sha1: ffba85b6e6b4f1808f6dc87bc8b62af10e7a9083, sha256: 0d3023e15ba92863cd10aa385d8e6d7f5fc25b205466f10d68d41b305f65d920)
+0054.058 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0054.062 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0054.065 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0054.067 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-others.zip: others: This file has not yet been successfully uploaded: will queue
+0054.071 (0) backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db.gz: db: This file has not yet been successfully uploaded: will queue
+0054.074 (0) Saving backup history. Total backup size: 119.6 MB
+0054.081 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0054.091 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0054.095 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d80824397ac3fda3a4f9eb46dbabc45e)
+0056.961 (0) Google Drive: quota usage: used=286.4 MB, total=15360 MB, available=15073.6 MB
+0056.976 (0) Google Drive: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0057.787 (0) Googledrive chunked upload: 3.2 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 21.1 / 10)
+0058.211 (0) Googledrive chunked upload: 9.7 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 21.1 / 10)
+0058.786 (0) Googledrive chunked upload: 22.5 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 21.1 / 10)
+0059.797 (0) Googledrive chunked upload: 48.3 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 21.1 / 10)
+0061.920 (0) Googledrive chunked upload: 99.7 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 21.1 / 10)
+0063.001 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0063.015 (0) Google Drive: OK: Archive backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip uploaded in 6.03 seconds
+0063.019 (0) Recording as successfully uploaded: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip
+0063.033 (0) Deleting local file: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip: OK
+0063.038 (0) Deleting zip manifest (backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-plugins.zip.list.tmp)
+0063.405 (0) Google Drive: quota usage: used=317.4 MB, total=15360 MB, available=15042.6 MB
+0063.413 (0) Google Drive: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0064.077 (0) Googledrive chunked upload: 3.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 21.1 / 10)
+0064.484 (0) Googledrive chunked upload: 11.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 21.2 / 10)
+0065.055 (0) Googledrive chunked upload: 27.6 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 21.2 / 10)
+0066.005 (0) Googledrive chunked upload: 59.2 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 21.2 / 10)
+0067.977 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0067.993 (0) Google Drive: OK: Archive backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip uploaded in 4.57 seconds
+0067.998 (0) Recording as successfully uploaded: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip
+0068.012 (0) Deleting local file: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip: OK
+0068.017 (0) Deleting zip manifest (backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-themes.zip.list.tmp)
+0068.962 (0) Google Drive: quota usage: used=342.8 MB, total=15360 MB, available=15017.2 MB
+0068.969 (0) Google Drive: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-uploads.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0069.620 (0) Googledrive chunked upload: 1.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 21.1 / 10)
+0070.071 (0) Googledrive chunked upload: 5.7 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 21.2 / 10)
+0070.868 (0) Googledrive chunked upload: 13.4 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 21.2 / 10)
+0072.176 (0) Googledrive chunked upload: 28.6 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 21.2 / 10)
+0073.943 (0) Googledrive chunked upload: 59.1 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 21.2 / 10)
+0077.961 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0077.985 (0) Google Drive: OK: Archive backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-uploads.zip uploaded in 9.01 seconds
+0077.992 (0) Recording as successfully uploaded: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-uploads.zip
+0078.024 (0) Deleting local file: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-uploads.zip: OK
+0078.033 (0) Deleting zip manifest (backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-uploads.zip.list.tmp)
+0078.578 (0) Google Drive: quota usage: used=395.2 MB, total=15360 MB, available=14964.8 MB
+0078.584 (0) Google Drive: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-others.zip: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0079.292 (0) Googledrive chunked upload: 11.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 21.1 / 10)
+0079.864 (0) Googledrive chunked upload: 35.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 21.2 / 10)
+0080.591 (0) Googledrive chunked upload: 83.5 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 21.2 / 10)
+0081.659 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+0081.681 (0) Google Drive: OK: Archive backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-others.zip uploaded in 3.09 seconds
+0081.687 (0) Recording as successfully uploaded: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-others.zip
+0081.703 (0) Deleting local file: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-others.zip: OK
+0081.710 (0) Deleting zip manifest (backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-others.zip.list.tmp)
+0082.091 (0) Google Drive: quota usage: used=403.6 MB, total=15360 MB, available=14956.4 MB
+0082.094 (0) Google Drive: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db.gz: Attempting to upload to Google Drive (into folder id: 19P7HfKhIWXc2sS54XpiJoSOAdyZNCCjh)
+0083.003 (0) Googledrive chunked upload: 41.6 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 21.1 / 10)
+0084.124 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0084.139 (0) Google Drive: OK: Archive backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db.gz uploaded in 2.04 seconds
+0084.144 (0) Recording as successfully uploaded: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db.gz
+0084.154 (0) Deleting local file: backup_2022-08-10-1006_Curriculum_Vitae_d970e1582b33-db.gz: OK
+0084.170 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0084.176 (0) Number of backup sets in history: 3; groups (db): 1
+0084.181 (0) Examining (for databases) backup set with group_id=0, nonce=d970e1582b33, datestamp=1660118796 (Aug 10 2022 08:06:36)
+0084.186 (0) This backup set is the backup set just made, so will not be deleted.
+0084.186 (0) Examining (for databases) backup set with group_id=0, nonce=cd85238acaae, datestamp=1660041789 (Aug 09 2022 10:43:09)
+0084.187 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0084.193 (0) Examining (for databases) backup set with group_id=0, nonce=e8635090481b, datestamp=1660040283 (Aug 09 2022 10:18:03)
+0084.194 (0) 1660040283: db: this set includes a database (backup_2022-08-09-1218_Curriculum_Vitae_e8635090481b-db.gz); db count is now 2
+0084.194 (0) 1660040283: db: over retain limit (2); will delete this database
+0084.194 (0) Delete file: backup_2022-08-09-1218_Curriculum_Vitae_e8635090481b-db.gz, service=googledrive
+0085.540 (0) Google Drive: backup_2022-08-09-1218_Curriculum_Vitae_e8635090481b-db.gz: Deletion successful
+0085.687 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0085.697 (0) Number of backup sets in history: 3; groups (files): 1
+0085.704 (0) Examining (for files) backup set with nonce=d970e1582b33, datestamp=1660118796 (Aug 10 2022 08:06:36)
+0085.704 (0) This backup set is the backup set just made, so will not be deleted.
+0085.713 (0) This backup set is the backup set just made, so will not be deleted.
+0085.715 (0) This backup set is the backup set just made, so will not be deleted.
+0085.716 (0) This backup set is the backup set just made, so will not be deleted.
+0085.717 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0085.725 (0) Examining (for files) backup set with nonce=cd85238acaae, datestamp=1660041789 (Aug 09 2022 10:43:09)
+0085.726 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0085.727 (0) Examining (for files) backup set with nonce=e8635090481b, datestamp=1660040283 (Aug 09 2022 10:18:03)
+0085.727 (0) plugins: over retain limit (2); will delete this file entity
+0085.727 (0) themes: over retain limit (2); will delete this file entity
+0085.727 (0) uploads: over retain limit (2); will delete this file entity
+0085.727 (0) others: over retain limit (2); will delete this file entity
+0085.728 (0) Delete file: backup_2022-08-09-1218_Curriculum_Vitae_e8635090481b-plugins.zip, service=googledrive
+0085.735 (0) Delete file: backup_2022-08-09-1218_Curriculum_Vitae_e8635090481b-themes.zip, service=googledrive
+0085.746 (0) Delete file: backup_2022-08-09-1218_Curriculum_Vitae_e8635090481b-uploads.zip, service=googledrive
+0085.752 (0) Delete file: backup_2022-08-09-1218_Curriculum_Vitae_e8635090481b-others.zip, service=googledrive
+0086.733 (0) Google Drive: backup_2022-08-09-1218_Curriculum_Vitae_e8635090481b-others.zip: Deletion successful
+0087.257 (0) Google Drive: backup_2022-08-09-1218_Curriculum_Vitae_e8635090481b-uploads.zip: Deletion successful
+0087.758 (0) Google Drive: backup_2022-08-09-1218_Curriculum_Vitae_e8635090481b-themes.zip: Deletion successful
+0088.243 (0) Google Drive: backup_2022-08-09-1218_Curriculum_Vitae_e8635090481b-plugins.zip: Deletion successful
+0088.250 (0) This backup set is now empty; will remove from history
+0088.253 (0) Deleting log file (log.e8635090481b.txt)
+0088.256 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0088.268 (0) Resume backup (d970e1582b33, 0): finish run
+0088.277 (0) Decremented the semaphore (fd) by 1
+0088.283 (0) Semaphore (fd) unlocked
+0088.287 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0088.297 (0) No email will/can be sent - the user has not configured an email address.
+0088.300 (0) The backup apparently succeeded and is now complete
